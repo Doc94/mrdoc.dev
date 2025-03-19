@@ -944,11 +944,11 @@ __metadata:
   linkType: hard
 
 "@iconify-json/simple-icons@npm:^1.2.28":
-  version: 1.2.28
-  resolution: "@iconify-json/simple-icons@npm:1.2.28"
+  version: 1.2.29
+  resolution: "@iconify-json/simple-icons@npm:1.2.29"
   dependencies:
     "@iconify/types": "npm:*"
-  checksum: 10c0/6426c3931ee66fc3dd16440508a1f46633e7b4eb24e31eaba1795608ca0091b79c0a7ab13a8cff2a0a899ca7c1146e7164e4fbf9223e8bbcc95c4175918320d2
+  checksum: 10c0/86bf2fa34b9336cbde2ec37118477e449264c8422a01cca752a23e0c90a760f37b6ac16eb72156fa0c19a4a166ba5064539f0ab28afe61b8d13281f5847c5ccc
   languageName: node
   linkType: hard
 
