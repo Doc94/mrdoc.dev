@@ -2175,7 +2175,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@tailwindcss/postcss@npm:^4.0.14":
+"@tailwindcss/postcss@npm:^4.0.15":
   version: 4.0.15
   resolution: "@tailwindcss/postcss@npm:4.0.15"
   dependencies:
@@ -2203,7 +2203,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@tailwindcss/vite@npm:^4.0.14":
+"@tailwindcss/vite@npm:^4.0.15":
   version: 4.0.15
   resolution: "@tailwindcss/vite@npm:4.0.15"
   dependencies:
@@ -3556,9 +3556,9 @@ __metadata:
     "@octokit/core": "npm:^6.1.4"
     "@playform/build": "npm:^0.2.1"
     "@resvg/resvg-js": "npm:^2.6.2"
-    "@tailwindcss/postcss": "npm:^4.0.14"
+    "@tailwindcss/postcss": "npm:^4.0.15"
     "@tailwindcss/typography": "npm:^0.5.16"
-    "@tailwindcss/vite": "npm:^4.0.14"
+    "@tailwindcss/vite": "npm:^4.0.15"
     "@typescript-eslint/eslint-plugin": "npm:^8.26.1"
     "@typescript-eslint/parser": "npm:^8.26.1"
     astro: "npm:^5.5.2"
@@ -3571,7 +3571,7 @@ __metadata:
     satori: "npm:^0.12.1"
     satori-html: "npm:^0.3.2"
     sharp: "npm:^0.33.5"
-    tailwindcss: "npm:^4.0.14"
+    tailwindcss: "npm:^4.0.15"
     tsm: "npm:^2.3.0"
     vite-plugin-compress: "npm:^2.1.1"
   languageName: unknown
@@ -10778,7 +10778,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"tailwindcss@npm:4.0.15, tailwindcss@npm:^4.0.14":
+"tailwindcss@npm:4.0.15, tailwindcss@npm:^4.0.15":
   version: 4.0.15
   resolution: "tailwindcss@npm:4.0.15"
   checksum: 10c0/c6d25c02312555e3ab4dc5e4766a131c3e9fc7bdb60e1973902a8903ff379e51813a2bc10d619b0ff2b7838c6f2e87078d087ad31c8fb4ef240942e3faff473b
