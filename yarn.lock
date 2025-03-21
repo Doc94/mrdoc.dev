@@ -1000,7 +1000,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@iconify-json/simple-icons@npm:^1.2.28":
+"@iconify-json/simple-icons@npm:^1.2.29":
   version: 1.2.29
   resolution: "@iconify-json/simple-icons@npm:1.2.29"
   dependencies:
@@ -3544,7 +3544,7 @@ __metadata:
     "@iconify-json/cib": "npm:^1.2.2"
     "@iconify-json/flag": "npm:^1.2.5"
     "@iconify-json/mdi": "npm:^1.2.3"
-    "@iconify-json/simple-icons": "npm:^1.2.28"
+    "@iconify-json/simple-icons": "npm:^1.2.29"
     "@octokit/core": "npm:^6.1.4"
     "@playform/build": "npm:^0.2.1"
     "@resvg/resvg-js": "npm:^2.6.2"
