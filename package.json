@@ -12,14 +12,14 @@
     "test:watch": "astro test --watch"
   },
   "devDependencies": {
-    "@astrojs/sitemap": "^3.2.1",
+    "@astrojs/sitemap": "^3.3.0",
     "@fontsource-variable/inter": "^5.2.5",
     "@fontsource/inter": "^5.2.5",
     "@resvg/resvg-js": "^2.6.2",
     "@tailwindcss/typography": "^0.5.16",
     "@typescript-eslint/eslint-plugin": "^8.26.1",
     "@typescript-eslint/parser": "^8.26.1",
-    "astro": "^5.5.2",
+    "astro": "^5.5.4",
     "astro-expressive-code": "^0.40.2",
     "astro-icon": "^1.1.5",
     "eslint": "^9.0.0",
@@ -31,9 +31,9 @@
     "tsm": "^2.3.0"
   },
   "dependencies": {
-    "@astrojs/mdx": "^4.2.0",
+    "@astrojs/mdx": "^4.2.1",
     "@astrojs/netlify": "^6.2.3",
-    "@astrojs/preact": "^4.0.5",
+    "@astrojs/preact": "^4.0.6",
     "@iconify-json/cib": "^1.2.2",
     "@iconify-json/flag": "^1.2.5",
     "@iconify-json/mdi": "^1.2.3",
