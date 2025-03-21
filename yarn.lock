@@ -928,6 +928,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@fontsource-variable/montserrat@npm:^5.2.5":
+  version: 5.2.5
+  resolution: "@fontsource-variable/montserrat@npm:5.2.5"
+  checksum: 10c0/b6b4d5185c6a72f05afb9032d34d352c2414ec504dc47e22659176e370af34b46020aa3929d8a29e11235ec3302ee857d871bd1a76681b689b51bfd62bd4a732
+  languageName: node
+  linkType: hard
+
 "@fontsource/inter@npm:^5.2.5":
   version: 5.2.5
   resolution: "@fontsource/inter@npm:5.2.5"
@@ -3540,6 +3547,7 @@ __metadata:
     "@astrojs/preact": "npm:^4.0.6"
     "@astrojs/sitemap": "npm:^3.3.0"
     "@fontsource-variable/inter": "npm:^5.2.5"
+    "@fontsource-variable/montserrat": "npm:^5.2.5"
     "@fontsource/inter": "npm:^5.2.5"
     "@iconify-json/cib": "npm:^1.2.2"
     "@iconify-json/flag": "npm:^1.2.5"
