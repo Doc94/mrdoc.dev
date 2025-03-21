@@ -12,15 +12,6 @@ html {
     font-family: "Montserrat Variable", sans-serif;
 }
 
-:not(pre) > code {
-    --color-background: oklch(0.922 0 0);
-    --border: "1px solid";
-    --border-color: oklch(0.871 0.006 286.286);
-    --padding: "0.250rem 0.4rem";
-    --border-radious: "0.250rem";
-    --font-weight: "400";
-}
-
 body::-webkit-scrollbar {
     width: 0.4rem;
 }
@@ -31,10 +22,10 @@ body::-webkit-scrollbar-track {
 
 body::-webkit-scrollbar-thumb {
     background: linear-gradient(180deg, #4e00cc30, #1e80ff60);
-    transition: background 0.4s;
+    transition: background 0.4s ease;
 }
 
 body::-webkit-scrollbar-thumb:hover {
-    transition: background 0.4s;
     background: linear-gradient(180deg, #4e00cc70, #1e80ff70);
+    transition: background 0.4s ease;
 }
