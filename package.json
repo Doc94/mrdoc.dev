@@ -41,10 +41,10 @@
     "@iconify-json/simple-icons": "^1.2.29",
     "@octokit/core": "^6.1.4",
     "@playform/build": "^0.2.1",
-    "@tailwindcss/postcss": "^4.0.15",
-    "@tailwindcss/vite": "^4.0.15",
+    "@tailwindcss/postcss": "^4.0.16",
+    "@tailwindcss/vite": "^4.0.16",
     "astro-compressor": "^1.0.0",
-    "tailwindcss": "^4.0.15",
+    "tailwindcss": "^4.0.16",
     "vite-plugin-compress": "^2.1.1"
   },
   "license": "MIT",
