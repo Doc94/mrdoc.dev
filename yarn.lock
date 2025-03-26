@@ -82,9 +82,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@astrojs/mdx@npm:^4.2.1":
-  version: 4.2.1
-  resolution: "@astrojs/mdx@npm:4.2.1"
+"@astrojs/mdx@npm:^4.2.2":
+  version: 4.2.2
+  resolution: "@astrojs/mdx@npm:4.2.2"
   dependencies:
     "@astrojs/markdown-remark": "npm:6.3.1"
     "@mdx-js/mdx": "npm:^3.1.0"
@@ -101,31 +101,31 @@ __metadata:
     vfile: "npm:^6.0.3"
   peerDependencies:
     astro: ^5.0.0
-  checksum: 10c0/81b30d8b62e69905c53d17bec274c8765da55ecf959dbd43182a5e8796e875ecd9b91a3bf6a3d3087e4ee80599f4db98b88ec816c25b956089221e60fa2c12df
+  checksum: 10c0/18097d1e6998e413bc5771eba7e3948cedd309fd1d6cc4a5e70b69685e30a970c683e3f7b0719ca21c7afe68fc5cba15b0f2fb21c608d0b0f5975b65017fcf0f
   languageName: node
   linkType: hard
 
-"@astrojs/netlify@npm:^6.2.3":
-  version: 6.2.3
-  resolution: "@astrojs/netlify@npm:6.2.3"
+"@astrojs/netlify@npm:^6.2.4":
+  version: 6.2.4
+  resolution: "@astrojs/netlify@npm:6.2.4"
   dependencies:
     "@astrojs/internal-helpers": "npm:0.6.1"
     "@astrojs/underscore-redirects": "npm:0.6.0"
     "@netlify/blobs": "npm:^8.1.1"
-    "@netlify/functions": "npm:^3.0.0"
+    "@netlify/functions": "npm:^3.0.1"
     "@vercel/nft": "npm:^0.29.2"
     esbuild: "npm:^0.25.0"
     tinyglobby: "npm:^0.2.12"
-    vite: "npm:^6.2.0"
+    vite: "npm:^6.2.3"
   peerDependencies:
     astro: ^5.3.0
-  checksum: 10c0/c2759ed8a72e3afc3e3e84c3475fe11f1f9bda5370fc3be551dccee585cfcc449cbc75d0d73a04987f98a6ed7685d73d08164c2c85d9a6a9d669f6064b42db16
+  checksum: 10c0/1271f988a0c558057348bef366004476c0c40e5ed0ba0e2598b6e648fcaead2db23d7f82e7f30b8c5bb824c6c1739ac51838950737b8cb560ed293a1a41bd851
   languageName: node
   linkType: hard
 
-"@astrojs/preact@npm:^4.0.6":
-  version: 4.0.6
-  resolution: "@astrojs/preact@npm:4.0.6"
+"@astrojs/preact@npm:^4.0.7":
+  version: 4.0.7
+  resolution: "@astrojs/preact@npm:4.0.7"
   dependencies:
     "@babel/plugin-transform-react-jsx": "npm:^7.25.9"
     "@babel/plugin-transform-react-jsx-development": "npm:^7.25.9"
@@ -133,10 +133,10 @@ __metadata:
     "@preact/signals": "npm:^2.0.1"
     babel-plugin-transform-hook-names: "npm:^1.0.2"
     preact-render-to-string: "npm:^6.5.13"
-    vite: "npm:^6.2.2"
+    vite: "npm:^6.2.3"
   peerDependencies:
     preact: ^10.6.5
-  checksum: 10c0/2d2e15b0b4664b2cb981700d11675881ea4d46cb4cfc1a11b54e8e51b95b9d61a45ea71b791a28416c86ab693ffbb628bec46e71dec8eda5d24c920454b4068f
+  checksum: 10c0/9ac05aab16571261786281180df995e7845fd7cf2820c6072ac4394185be2e119c22477b43dc9e4caa40b08b1f0ec9472c225930980c1235ea21bafbcfec8ee2
   languageName: node
   linkType: hard
 
@@ -1354,19 +1354,19 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@netlify/functions@npm:^3.0.0":
-  version: 3.0.1
-  resolution: "@netlify/functions@npm:3.0.1"
+"@netlify/functions@npm:^3.0.1":
+  version: 3.0.4
+  resolution: "@netlify/functions@npm:3.0.4"
   dependencies:
-    "@netlify/serverless-functions-api": "npm:1.35.0"
-  checksum: 10c0/6d141bdb4c7645dbc7d30d1e6d73cafdae02e8150609b70c35bb62f76a8acc01ae67210c97186f468491e283ad5df36d61a11ecc56b6be3cdc4ec678f0bdcc5c
+    "@netlify/serverless-functions-api": "npm:1.36.0"
+  checksum: 10c0/6f82cec3552eed46152fef6151c1c49cd0fbcf7033166dddb3cb630f7f8b9e9ab9db485b84d4926178d2261bd141fc5d2d88dd07f2d50a31483f302e6e8bd16b
   languageName: node
   linkType: hard
 
-"@netlify/serverless-functions-api@npm:1.35.0":
-  version: 1.35.0
-  resolution: "@netlify/serverless-functions-api@npm:1.35.0"
-  checksum: 10c0/2a4121df3f8467b9999d78cf1083af345f58ea95859b10a0176ba6037a7ffe0eeba118d09fee49a0f3eb7d2021e2b56fb34bd9a038402e4dd1c84cffa3f5690d
+"@netlify/serverless-functions-api@npm:1.36.0":
+  version: 1.36.0
+  resolution: "@netlify/serverless-functions-api@npm:1.36.0"
+  checksum: 10c0/e7f55f3f91485227c598010a47c87da78fb1c12e129021a6a48f68db40a189ac7ed7b68d48b7aaa32c0241e631255a45328df1161032302702ca35d1c2361a11
   languageName: node
   linkType: hard
 
@@ -2874,9 +2874,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"astro@npm:^5.5.4":
-  version: 5.5.4
-  resolution: "astro@npm:5.5.4"
+"astro@npm:^5.5.5":
+  version: 5.5.5
+  resolution: "astro@npm:5.5.5"
   dependencies:
     "@astrojs/compiler": "npm:^2.11.0"
     "@astrojs/internal-helpers": "npm:0.6.1"
@@ -2928,7 +2928,7 @@ __metadata:
     unist-util-visit: "npm:^5.0.0"
     unstorage: "npm:^1.15.0"
     vfile: "npm:^6.0.3"
-    vite: "npm:^6.2.1"
+    vite: "npm:^6.2.3"
     vitefu: "npm:^1.0.6"
     xxhash-wasm: "npm:^1.1.0"
     yargs-parser: "npm:^21.1.1"
@@ -2941,7 +2941,7 @@ __metadata:
       optional: true
   bin:
     astro: astro.js
-  checksum: 10c0/8f2f1a251ee976ce7a8c7f5cc3b620738721bfdccf8dc4a03e7849180ea257d3711990a78dc5b4bc2f2421287f6a9a5446ae98eb93556de610c59490860f2792
+  checksum: 10c0/081dedb4ddc5c148b1bbc8d280a557e21944a6b5499c50452d4e9e2cd6b2d590e4a203d7b18239ab81233623876a42d9fcc768236b816fa643ce507828c942c5
   languageName: node
   linkType: hard
 
@@ -3542,9 +3542,9 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "cojocarudavid.me@workspace:."
   dependencies:
-    "@astrojs/mdx": "npm:^4.2.1"
-    "@astrojs/netlify": "npm:^6.2.3"
-    "@astrojs/preact": "npm:^4.0.6"
+    "@astrojs/mdx": "npm:^4.2.2"
+    "@astrojs/netlify": "npm:^6.2.4"
+    "@astrojs/preact": "npm:^4.0.7"
     "@astrojs/sitemap": "npm:^3.3.0"
     "@fontsource-variable/inter": "npm:^5.2.5"
     "@fontsource-variable/montserrat": "npm:^5.2.5"
@@ -3561,7 +3561,7 @@ __metadata:
     "@tailwindcss/vite": "npm:^4.0.16"
     "@typescript-eslint/eslint-plugin": "npm:^8.28.0"
     "@typescript-eslint/parser": "npm:^8.28.0"
-    astro: "npm:^5.5.4"
+    astro: "npm:^5.5.5"
     astro-compressor: "npm:^1.0.0"
     astro-expressive-code: "npm:^0.40.2"
     astro-icon: "npm:^1.1.5"
@@ -11549,9 +11549,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vite@npm:^6.2.0, vite@npm:^6.2.1, vite@npm:^6.2.2":
-  version: 6.2.2
-  resolution: "vite@npm:6.2.2"
+"vite@npm:^6.2.3":
+  version: 6.2.3
+  resolution: "vite@npm:6.2.3"
   dependencies:
     esbuild: "npm:^0.25.0"
     fsevents: "npm:~2.3.3"
@@ -11597,7 +11597,7 @@ __metadata:
       optional: true
   bin:
     vite: bin/vite.js
-  checksum: 10c0/52f5b1c10cfe5e3b6382c6de1811ebbf76df9b5a8bab3d65169446c6b54a5f1528f775b1548009a6d8aad11def20fba046bb3e9abb10c0c2c9ccd78118623bb8
+  checksum: 10c0/ba6ad7e83e5a63fb0b6f62d3a3963624b8784bdc1bfa2a83e16cf268fb58c76bd9f8e69f39ed34bf8711cdb8fd7702916f878781da53c232c34ef7a85e0600cf
   languageName: node
   linkType: hard
 
