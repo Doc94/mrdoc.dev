@@ -63,5 +63,5 @@
     "url": "https://github.com/cojocaru-david/cojocarudavid.me/issues"
   },
   "homepage": "https://cojocarudavid.me",
-  "packageManager": "yarn@4.7.0"
+  "packageManager": "yarn@4.8.0"
 }
