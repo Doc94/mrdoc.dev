@@ -82,9 +82,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@astrojs/mdx@npm:^4.2.2":
-  version: 4.2.2
-  resolution: "@astrojs/mdx@npm:4.2.2"
+"@astrojs/mdx@npm:^4.2.3":
+  version: 4.2.3
+  resolution: "@astrojs/mdx@npm:4.2.3"
   dependencies:
     "@astrojs/markdown-remark": "npm:6.3.1"
     "@mdx-js/mdx": "npm:^3.1.0"
@@ -101,13 +101,13 @@ __metadata:
     vfile: "npm:^6.0.3"
   peerDependencies:
     astro: ^5.0.0
-  checksum: 10c0/18097d1e6998e413bc5771eba7e3948cedd309fd1d6cc4a5e70b69685e30a970c683e3f7b0719ca21c7afe68fc5cba15b0f2fb21c608d0b0f5975b65017fcf0f
+  checksum: 10c0/ae1c85e68954348e2688711b4c0aa270d9afc56082865cf2bdc96477478f19d8bef138c3708e22bea65047683250d4310ff92562c9b6277043d812d41ebbfb3a
   languageName: node
   linkType: hard
 
-"@astrojs/netlify@npm:^6.2.4":
-  version: 6.2.4
-  resolution: "@astrojs/netlify@npm:6.2.4"
+"@astrojs/netlify@npm:^6.2.5":
+  version: 6.2.5
+  resolution: "@astrojs/netlify@npm:6.2.5"
   dependencies:
     "@astrojs/internal-helpers": "npm:0.6.1"
     "@astrojs/underscore-redirects": "npm:0.6.0"
@@ -116,27 +116,27 @@ __metadata:
     "@vercel/nft": "npm:^0.29.2"
     esbuild: "npm:^0.25.0"
     tinyglobby: "npm:^0.2.12"
-    vite: "npm:^6.2.3"
+    vite: "npm:^6.2.4"
   peerDependencies:
     astro: ^5.3.0
-  checksum: 10c0/1271f988a0c558057348bef366004476c0c40e5ed0ba0e2598b6e648fcaead2db23d7f82e7f30b8c5bb824c6c1739ac51838950737b8cb560ed293a1a41bd851
+  checksum: 10c0/e57d71e652c5a71163af8ac569d32651c41a87f07fc1dac3cec61f480018bd9115af6bfcc96d62d5895e085013c833ea88fe483450b3e4f670ce7c745c0944ab
   languageName: node
   linkType: hard
 
-"@astrojs/preact@npm:^4.0.7":
-  version: 4.0.7
-  resolution: "@astrojs/preact@npm:4.0.7"
+"@astrojs/preact@npm:^4.0.8":
+  version: 4.0.8
+  resolution: "@astrojs/preact@npm:4.0.8"
   dependencies:
     "@babel/plugin-transform-react-jsx": "npm:^7.25.9"
     "@babel/plugin-transform-react-jsx-development": "npm:^7.25.9"
     "@preact/preset-vite": "npm:^2.10.1"
-    "@preact/signals": "npm:^2.0.1"
+    "@preact/signals": "npm:^2.0.2"
     babel-plugin-transform-hook-names: "npm:^1.0.2"
     preact-render-to-string: "npm:^6.5.13"
-    vite: "npm:^6.2.3"
+    vite: "npm:^6.2.4"
   peerDependencies:
     preact: ^10.6.5
-  checksum: 10c0/9ac05aab16571261786281180df995e7845fd7cf2820c6072ac4394185be2e119c22477b43dc9e4caa40b08b1f0ec9472c225930980c1235ea21bafbcfec8ee2
+  checksum: 10c0/0bbccad5ba46370b4bd6860beea027213f5bdac5fe4ada505c2a95b2f328d9261c5b2bcb430ff3bec19148415e405c903c5897fc342ef8d5575b2bd4805b5651
   languageName: node
   linkType: hard
 
@@ -1564,14 +1564,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@preact/signals@npm:^2.0.1":
-  version: 2.0.1
-  resolution: "@preact/signals@npm:2.0.1"
+"@preact/signals@npm:^2.0.2":
+  version: 2.0.2
+  resolution: "@preact/signals@npm:2.0.2"
   dependencies:
     "@preact/signals-core": "npm:^1.7.0"
   peerDependencies:
     preact: 10.x
-  checksum: 10c0/256059ce1aa9b17c965c11da35cd8825f19d6618b2b6a00ceaf3c2371564e2478fc065b36abfecd7252f2b9efb0517ff33074cd05bbc04a700c382481a7ba17c
+  checksum: 10c0/4a776f75af9dafe449aca9c9791820500b79b4117799f674bb1e784d38456ef53d65ef426c0100c5f69305d6f681930ea61cbc7d9126d4c4b649042b95a18256
   languageName: node
   linkType: hard
 
@@ -2874,9 +2874,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"astro@npm:^5.5.5":
-  version: 5.5.5
-  resolution: "astro@npm:5.5.5"
+"astro@npm:^5.5.6":
+  version: 5.5.6
+  resolution: "astro@npm:5.5.6"
   dependencies:
     "@astrojs/compiler": "npm:^2.11.0"
     "@astrojs/internal-helpers": "npm:0.6.1"
@@ -2914,13 +2914,13 @@ __metadata:
     neotraverse: "npm:^0.6.18"
     p-limit: "npm:^6.2.0"
     p-queue: "npm:^8.1.0"
-    package-manager-detector: "npm:^1.0.0"
+    package-manager-detector: "npm:^1.1.0"
     picomatch: "npm:^4.0.2"
     prompts: "npm:^2.4.2"
     rehype: "npm:^13.0.2"
     semver: "npm:^7.7.1"
     sharp: "npm:^0.33.3"
-    shiki: "npm:^3.0.0"
+    shiki: "npm:^3.2.1"
     tinyexec: "npm:^0.3.2"
     tinyglobby: "npm:^0.2.12"
     tsconfck: "npm:^3.1.5"
@@ -2928,20 +2928,20 @@ __metadata:
     unist-util-visit: "npm:^5.0.0"
     unstorage: "npm:^1.15.0"
     vfile: "npm:^6.0.3"
-    vite: "npm:^6.2.3"
+    vite: "npm:^6.2.4"
     vitefu: "npm:^1.0.6"
     xxhash-wasm: "npm:^1.1.0"
     yargs-parser: "npm:^21.1.1"
     yocto-spinner: "npm:^0.2.1"
     zod: "npm:^3.24.2"
-    zod-to-json-schema: "npm:^3.24.3"
+    zod-to-json-schema: "npm:^3.24.5"
     zod-to-ts: "npm:^1.2.0"
   dependenciesMeta:
     sharp:
       optional: true
   bin:
     astro: astro.js
-  checksum: 10c0/081dedb4ddc5c148b1bbc8d280a557e21944a6b5499c50452d4e9e2cd6b2d590e4a203d7b18239ab81233623876a42d9fcc768236b816fa643ce507828c942c5
+  checksum: 10c0/365058a049a62d6c6098662eeef4167ce67a3b1527e426d62f895c36243744113d7db7912881e0bc8ab6fcafa2ab82632e5f4c1b4c2308f1c12a39fafebd8c48
   languageName: node
   linkType: hard
 
@@ -3542,9 +3542,9 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "cojocarudavid.me@workspace:."
   dependencies:
-    "@astrojs/mdx": "npm:^4.2.2"
-    "@astrojs/netlify": "npm:^6.2.4"
-    "@astrojs/preact": "npm:^4.0.7"
+    "@astrojs/mdx": "npm:^4.2.3"
+    "@astrojs/netlify": "npm:^6.2.5"
+    "@astrojs/preact": "npm:^4.0.8"
     "@astrojs/sitemap": "npm:^3.3.0"
     "@fontsource-variable/inter": "npm:^5.2.5"
     "@fontsource-variable/montserrat": "npm:^5.2.5"
@@ -3561,7 +3561,7 @@ __metadata:
     "@tailwindcss/vite": "npm:^4.0.17"
     "@typescript-eslint/eslint-plugin": "npm:^8.28.0"
     "@typescript-eslint/parser": "npm:^8.28.0"
-    astro: "npm:^5.5.5"
+    astro: "npm:^5.5.6"
     astro-compressor: "npm:^1.0.0"
     astro-expressive-code: "npm:^0.40.2"
     astro-icon: "npm:^1.1.5"
@@ -8920,7 +8920,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"package-manager-detector@npm:^1.0.0":
+"package-manager-detector@npm:^1.1.0":
   version: 1.1.0
   resolution: "package-manager-detector@npm:1.1.0"
   checksum: 10c0/b5ba0bdaae4d70bb6e1a1af047522fdcd811e65e60927c2e7cc3736324a00b30d66ac304bab1d7cd925b11142d90fcc4215a7efde430a5616cea698e0b2dfada
@@ -10246,7 +10246,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"shiki@npm:^3.0.0":
+"shiki@npm:^3.0.0, shiki@npm:^3.2.1":
   version: 3.2.1
   resolution: "shiki@npm:3.2.1"
   dependencies:
@@ -11549,9 +11549,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vite@npm:^6.2.3":
-  version: 6.2.3
-  resolution: "vite@npm:6.2.3"
+"vite@npm:^6.2.4":
+  version: 6.2.4
+  resolution: "vite@npm:6.2.4"
   dependencies:
     esbuild: "npm:^0.25.0"
     fsevents: "npm:~2.3.3"
@@ -11597,7 +11597,7 @@ __metadata:
       optional: true
   bin:
     vite: bin/vite.js
-  checksum: 10c0/ba6ad7e83e5a63fb0b6f62d3a3963624b8784bdc1bfa2a83e16cf268fb58c76bd9f8e69f39ed34bf8711cdb8fd7702916f878781da53c232c34ef7a85e0600cf
+  checksum: 10c0/5a011ee5cce91de023a22564a314f04bf64d0d02b420d92c3d539d10257448d60e98e52b491404656426fba4a50dc25f107282540d7388fc5303dc441280155e
   languageName: node
   linkType: hard
 
@@ -11906,12 +11906,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"zod-to-json-schema@npm:^3.24.3":
-  version: 3.24.4
-  resolution: "zod-to-json-schema@npm:3.24.4"
+"zod-to-json-schema@npm:^3.24.5":
+  version: 3.24.5
+  resolution: "zod-to-json-schema@npm:3.24.5"
   peerDependencies:
     zod: ^3.24.1
-  checksum: 10c0/eacef9f18159038cac87132005690c8e3da3a3aeb9dfbac2c2450f36f3b0345e895abcb165b5d81294b2dae3fedfb11b8b733daecc649b7c0584fcc9858a312d
+  checksum: 10c0/0745b94ba53e652d39f262641cdeb2f75d24339fb6076a38ce55bcf53d82dfaea63adf524ebc5f658681005401687f8e9551c4feca7c4c882e123e66091dfb90
   languageName: node
   linkType: hard
 
