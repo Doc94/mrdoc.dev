@@ -29,7 +29,7 @@
     "satori-html": "^0.3.2",
     "sharp": "^0.34.0",
     "tsm": "^2.3.0",
-    "typescript": "^5.8.2",
+    "typescript": "^5.8.3",
     "vite": "^6.2.5"
   },
   "dependencies": {
