@@ -1721,9 +1721,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@playform/build@npm:^0.2.2":
-  version: 0.2.2
-  resolution: "@playform/build@npm:0.2.2"
+"@playform/build@npm:^0.2.3":
+  version: 0.2.3
+  resolution: "@playform/build@npm:0.2.3"
   dependencies:
     "@types/node": "npm:22.14.0"
     commander: "npm:13.1.0"
@@ -1731,10 +1731,10 @@ __metadata:
     esbuild: "npm:0.25.2"
     fast-glob: "npm:3.3.3"
     tsc-alias: "npm:1.8.13"
-    typescript: "npm:5.8.2"
+    typescript: "npm:5.8.3"
   bin:
     Build: Target/Class/Build.js
-  checksum: 10c0/7d701a6ced81a5dab62ed0a65ba7a83598bc3233ac832730337923de2afa4bdb9666b8142c9c9b136d786590cf05491f99416038b80a303952e6736298d15244
+  checksum: 10c0/3fe6b8d203ed0065036171bd6e563a55a5aa02b958bb2ecd8ad67a3e5bfb4daa68580e3b721155e095a70df06014a7b8ec3581f4c59bf7a7c8efea67985bf1dc
   languageName: node
   linkType: hard
 
@@ -3754,7 +3754,7 @@ __metadata:
     "@iconify-json/mdi": "npm:^1.2.3"
     "@iconify-json/simple-icons": "npm:^1.2.30"
     "@octokit/core": "npm:^6.1.4"
-    "@playform/build": "npm:^0.2.2"
+    "@playform/build": "npm:^0.2.3"
     "@resvg/resvg-js": "npm:^2.6.2"
     "@tailwindcss/postcss": "npm:^4.1.3"
     "@tailwindcss/typography": "npm:^0.5.16"
@@ -11392,17 +11392,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typescript@npm:5.8.2":
-  version: 5.8.2
-  resolution: "typescript@npm:5.8.2"
-  bin:
-    tsc: bin/tsc
-    tsserver: bin/tsserver
-  checksum: 10c0/5c4f6fbf1c6389b6928fe7b8fcd5dc73bb2d58cd4e3883f1d774ed5bd83b151cbac6b7ecf11723de56d4676daeba8713894b1e9af56174f2f9780ae7848ec3c6
-  languageName: node
-  linkType: hard
-
-"typescript@npm:^5.8.3":
+"typescript@npm:5.8.3, typescript@npm:^5.8.3":
   version: 5.8.3
   resolution: "typescript@npm:5.8.3"
   bin:
@@ -11412,17 +11402,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typescript@patch:typescript@npm%3A5.8.2#optional!builtin<compat/typescript>":
-  version: 5.8.2
-  resolution: "typescript@patch:typescript@npm%3A5.8.2#optional!builtin<compat/typescript>::version=5.8.2&hash=5786d5"
-  bin:
-    tsc: bin/tsc
-    tsserver: bin/tsserver
-  checksum: 10c0/5448a08e595cc558ab321e49d4cac64fb43d1fa106584f6ff9a8d8e592111b373a995a1d5c7f3046211c8a37201eb6d0f1566f15cdb7a62a5e3be01d087848e2
-  languageName: node
-  linkType: hard
-
-"typescript@patch:typescript@npm%3A^5.8.3#optional!builtin<compat/typescript>":
+"typescript@patch:typescript@npm%3A5.8.3#optional!builtin<compat/typescript>, typescript@patch:typescript@npm%3A^5.8.3#optional!builtin<compat/typescript>":
   version: 5.8.3
   resolution: "typescript@patch:typescript@npm%3A5.8.3#optional!builtin<compat/typescript>::version=5.8.3&hash=5786d5"
   bin:
