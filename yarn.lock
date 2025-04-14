@@ -82,9 +82,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@astrojs/mdx@npm:^4.2.3":
-  version: 4.2.3
-  resolution: "@astrojs/mdx@npm:4.2.3"
+"@astrojs/mdx@npm:^4.2.4":
+  version: 4.2.4
+  resolution: "@astrojs/mdx@npm:4.2.4"
   dependencies:
     "@astrojs/markdown-remark": "npm:6.3.1"
     "@mdx-js/mdx": "npm:^3.1.0"
@@ -101,13 +101,13 @@ __metadata:
     vfile: "npm:^6.0.3"
   peerDependencies:
     astro: ^5.0.0
-  checksum: 10c0/ae1c85e68954348e2688711b4c0aa270d9afc56082865cf2bdc96477478f19d8bef138c3708e22bea65047683250d4310ff92562c9b6277043d812d41ebbfb3a
+  checksum: 10c0/b2dedb989f0501a149fa4ad74dbf9a7d2b0438f96752760e1fbc47e08bdb573d4abac99f35850a89b43b42923fe702d029f7ea0728ae5cd638c143bd0e4dca15
   languageName: node
   linkType: hard
 
-"@astrojs/netlify@npm:^6.2.5":
-  version: 6.2.5
-  resolution: "@astrojs/netlify@npm:6.2.5"
+"@astrojs/netlify@npm:^6.2.6":
+  version: 6.2.6
+  resolution: "@astrojs/netlify@npm:6.2.6"
   dependencies:
     "@astrojs/internal-helpers": "npm:0.6.1"
     "@astrojs/underscore-redirects": "npm:0.6.0"
@@ -116,16 +116,16 @@ __metadata:
     "@vercel/nft": "npm:^0.29.2"
     esbuild: "npm:^0.25.0"
     tinyglobby: "npm:^0.2.12"
-    vite: "npm:^6.2.4"
+    vite: "npm:^6.2.6"
   peerDependencies:
     astro: ^5.3.0
-  checksum: 10c0/e57d71e652c5a71163af8ac569d32651c41a87f07fc1dac3cec61f480018bd9115af6bfcc96d62d5895e085013c833ea88fe483450b3e4f670ce7c745c0944ab
+  checksum: 10c0/ae44b98e27b96bc8877a42272e42dffe1ff46b462d935ce6fc951eb8d12901743ce6b8f4dcdaea98ee0ee1f9533e5e67c7d21dd9a2eec59984280384ef2364dd
   languageName: node
   linkType: hard
 
-"@astrojs/preact@npm:^4.0.8":
-  version: 4.0.8
-  resolution: "@astrojs/preact@npm:4.0.8"
+"@astrojs/preact@npm:^4.0.9":
+  version: 4.0.9
+  resolution: "@astrojs/preact@npm:4.0.9"
   dependencies:
     "@babel/plugin-transform-react-jsx": "npm:^7.25.9"
     "@babel/plugin-transform-react-jsx-development": "npm:^7.25.9"
@@ -133,10 +133,10 @@ __metadata:
     "@preact/signals": "npm:^2.0.2"
     babel-plugin-transform-hook-names: "npm:^1.0.2"
     preact-render-to-string: "npm:^6.5.13"
-    vite: "npm:^6.2.4"
+    vite: "npm:^6.2.6"
   peerDependencies:
     preact: ^10.6.5
-  checksum: 10c0/0bbccad5ba46370b4bd6860beea027213f5bdac5fe4ada505c2a95b2f328d9261c5b2bcb430ff3bec19148415e405c903c5897fc342ef8d5575b2bd4805b5651
+  checksum: 10c0/0587bf2cb89b774e64f98b6c32e73f6d21742998fb03e6391094b824ea53ae608ddd18cadd52b875bfc26865412794d6d52df63f7936db312c79ba990cc8430c
   languageName: node
   linkType: hard
 
@@ -3071,9 +3071,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"astro@npm:5.6.1":
-  version: 5.6.1
-  resolution: "astro@npm:5.6.1"
+"astro@npm:5.6.2":
+  version: 5.6.2
+  resolution: "astro@npm:5.6.2"
   dependencies:
     "@astrojs/compiler": "npm:^2.11.0"
     "@astrojs/internal-helpers": "npm:0.6.1"
@@ -3125,7 +3125,7 @@ __metadata:
     unist-util-visit: "npm:^5.0.0"
     unstorage: "npm:^1.15.0"
     vfile: "npm:^6.0.3"
-    vite: "npm:^6.2.4"
+    vite: "npm:^6.2.6"
     vitefu: "npm:^1.0.6"
     xxhash-wasm: "npm:^1.1.0"
     yargs-parser: "npm:^21.1.1"
@@ -3138,7 +3138,7 @@ __metadata:
       optional: true
   bin:
     astro: astro.js
-  checksum: 10c0/e8adf227d2db6b7422f1b2b6bdc19e17801d0de5c5ec042d6f51c6aa19bd5507e901b07cbf9baf8c39e518ad81a049a5557a7b1932cceebd63af2bcdff9ee91b
+  checksum: 10c0/028433394fa3ee4730caea029ca1b89e5a919014699bb0e575d4dd3fd2fdc5493b5b75f04dd1e74110860796faa1be2175ccd85b8488b51c077e740406df26de
   languageName: node
   linkType: hard
 
@@ -3739,9 +3739,9 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "cojocarudavid.me@workspace:."
   dependencies:
-    "@astrojs/mdx": "npm:^4.2.3"
-    "@astrojs/netlify": "npm:^6.2.5"
-    "@astrojs/preact": "npm:^4.0.8"
+    "@astrojs/mdx": "npm:^4.2.4"
+    "@astrojs/netlify": "npm:^6.2.6"
+    "@astrojs/preact": "npm:^4.0.9"
     "@astrojs/sitemap": "npm:^3.3.0"
     "@fontsource-variable/inter": "npm:^5.2.5"
     "@fontsource-variable/montserrat": "npm:^5.2.5"
@@ -3759,7 +3759,7 @@ __metadata:
     "@tailwindcss/vite": "npm:^4.1.3"
     "@typescript-eslint/eslint-plugin": "npm:^8.29.1"
     "@typescript-eslint/parser": "npm:^8.29.1"
-    astro: "npm:5.6.1"
+    astro: "npm:5.6.2"
     astro-compressor: "npm:^1.0.0"
     astro-expressive-code: "npm:^0.41.1"
     astro-icon: "npm:^1.1.5"
@@ -11810,58 +11810,6 @@ __metadata:
     source-map: "npm:^0.7.4"
     stack-trace: "npm:^1.0.0-pre2"
   checksum: 10c0/77005008315d39d5bb87f7462046cc08b074388f900905678ce9782378bf4c8ca6ea5c0321506403b8f22fe6edd55c49cc423903ce545fefd0d4f046f06823cb
-  languageName: node
-  linkType: hard
-
-"vite@npm:^6.2.4":
-  version: 6.2.4
-  resolution: "vite@npm:6.2.4"
-  dependencies:
-    esbuild: "npm:^0.25.0"
-    fsevents: "npm:~2.3.3"
-    postcss: "npm:^8.5.3"
-    rollup: "npm:^4.30.1"
-  peerDependencies:
-    "@types/node": ^18.0.0 || ^20.0.0 || >=22.0.0
-    jiti: ">=1.21.0"
-    less: "*"
-    lightningcss: ^1.21.0
-    sass: "*"
-    sass-embedded: "*"
-    stylus: "*"
-    sugarss: "*"
-    terser: ^5.16.0
-    tsx: ^4.8.1
-    yaml: ^2.4.2
-  dependenciesMeta:
-    fsevents:
-      optional: true
-  peerDependenciesMeta:
-    "@types/node":
-      optional: true
-    jiti:
-      optional: true
-    less:
-      optional: true
-    lightningcss:
-      optional: true
-    sass:
-      optional: true
-    sass-embedded:
-      optional: true
-    stylus:
-      optional: true
-    sugarss:
-      optional: true
-    terser:
-      optional: true
-    tsx:
-      optional: true
-    yaml:
-      optional: true
-  bin:
-    vite: bin/vite.js
-  checksum: 10c0/5a011ee5cce91de023a22564a314f04bf64d0d02b420d92c3d539d10257448d60e98e52b491404656426fba4a50dc25f107282540d7388fc5303dc441280155e
   languageName: node
   linkType: hard
 
