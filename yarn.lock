@@ -82,9 +82,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@astrojs/mdx@npm:^4.2.4":
-  version: 4.2.4
-  resolution: "@astrojs/mdx@npm:4.2.4"
+"@astrojs/mdx@npm:^4.2.5":
+  version: 4.2.5
+  resolution: "@astrojs/mdx@npm:4.2.5"
   dependencies:
     "@astrojs/markdown-remark": "npm:6.3.1"
     "@mdx-js/mdx": "npm:^3.1.0"
@@ -101,16 +101,16 @@ __metadata:
     vfile: "npm:^6.0.3"
   peerDependencies:
     astro: ^5.0.0
-  checksum: 10c0/b2dedb989f0501a149fa4ad74dbf9a7d2b0438f96752760e1fbc47e08bdb573d4abac99f35850a89b43b42923fe702d029f7ea0728ae5cd638c143bd0e4dca15
+  checksum: 10c0/a3f3078471d8bb44b94a852ceff2aa98b9ed281888ac8dc70ed72ceb6e118d9ede110378c11d38b4c7499169e02497c98c83430bc83ea2b96c4a07484b912b2c
   languageName: node
   linkType: hard
 
-"@astrojs/netlify@npm:^6.3.0":
-  version: 6.3.0
-  resolution: "@astrojs/netlify@npm:6.3.0"
+"@astrojs/netlify@npm:^6.3.1":
+  version: 6.3.1
+  resolution: "@astrojs/netlify@npm:6.3.1"
   dependencies:
     "@astrojs/internal-helpers": "npm:0.6.1"
-    "@astrojs/underscore-redirects": "npm:0.6.0"
+    "@astrojs/underscore-redirects": "npm:0.6.1"
     "@netlify/blobs": "npm:^8.1.1"
     "@netlify/functions": "npm:^3.0.1"
     "@vercel/nft": "npm:^0.29.2"
@@ -119,24 +119,21 @@ __metadata:
     vite: "npm:^6.2.6"
   peerDependencies:
     astro: ^5.3.0
-  checksum: 10c0/a9d277ab0b84bea49bee479f9f0d29065b97ee606db09e89f9cfeaa98cc5b294235c1a552c5469c22d12c79ae8bd2805c19ba194d854211bd7db01b68a0ff6b7
+  checksum: 10c0/a8bbbdcf1c4353a3fc1aa60d06d997f3c0effa01fe8fa9930f67e40672dbbb74e3e187f92e2b6da302ac2c170bf03616999080c173f2c0cac203e5b7fd1ba7a1
   languageName: node
   linkType: hard
 
-"@astrojs/preact@npm:^4.0.9":
-  version: 4.0.9
-  resolution: "@astrojs/preact@npm:4.0.9"
+"@astrojs/preact@npm:^4.0.10":
+  version: 4.0.10
+  resolution: "@astrojs/preact@npm:4.0.10"
   dependencies:
-    "@babel/plugin-transform-react-jsx": "npm:^7.25.9"
-    "@babel/plugin-transform-react-jsx-development": "npm:^7.25.9"
     "@preact/preset-vite": "npm:^2.10.1"
     "@preact/signals": "npm:^2.0.2"
-    babel-plugin-transform-hook-names: "npm:^1.0.2"
     preact-render-to-string: "npm:^6.5.13"
     vite: "npm:^6.2.6"
   peerDependencies:
     preact: ^10.6.5
-  checksum: 10c0/0587bf2cb89b774e64f98b6c32e73f6d21742998fb03e6391094b824ea53ae608ddd18cadd52b875bfc26865412794d6d52df63f7936db312c79ba990cc8430c
+  checksum: 10c0/9dd5b42c814b757f17b886b48445e6d0cb52f75e14faddf2f324123c4bc940518dca1709a2041c04b9dd73c41c4f721f1244dcd205378f7b1d38ba1c911857ce
   languageName: node
   linkType: hard
 
@@ -149,36 +146,36 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@astrojs/sitemap@npm:^3.3.0":
-  version: 3.3.0
-  resolution: "@astrojs/sitemap@npm:3.3.0"
+"@astrojs/sitemap@npm:^3.3.1":
+  version: 3.3.1
+  resolution: "@astrojs/sitemap@npm:3.3.1"
   dependencies:
     sitemap: "npm:^8.0.0"
     stream-replace-string: "npm:^2.0.0"
     zod: "npm:^3.24.2"
-  checksum: 10c0/6e112cc8234c669a9e9ded81cdfe40d740471a173d126eb79a2d36455a6e4c27457faaea0c750575d814408283db07ee1844bb98c7c3209ac2ce1396538e54e4
+  checksum: 10c0/7e6baf6378716ab4ecc7927130aeae9881d6f59d5db555ffed57411de5fd3e28186371a79f6f551aa265b6632c4b021dd4b72a8f12b69f7f46f51a74a7bcd022
   languageName: node
   linkType: hard
 
-"@astrojs/telemetry@npm:3.2.0":
-  version: 3.2.0
-  resolution: "@astrojs/telemetry@npm:3.2.0"
+"@astrojs/telemetry@npm:3.2.1":
+  version: 3.2.1
+  resolution: "@astrojs/telemetry@npm:3.2.1"
   dependencies:
-    ci-info: "npm:^4.1.0"
-    debug: "npm:^4.3.7"
+    ci-info: "npm:^4.2.0"
+    debug: "npm:^4.4.0"
     dlv: "npm:^1.1.3"
     dset: "npm:^3.1.4"
     is-docker: "npm:^3.0.0"
     is-wsl: "npm:^3.1.0"
     which-pm-runs: "npm:^1.1.0"
-  checksum: 10c0/5727205ca13fc9f83ff97b64838f6edd4010e8307d19f781f641c0c99e779d7d3e15469d66a67ba119c87963cd1c529bbd0f15bc8b88d88918f8fda04805c610
+  checksum: 10c0/7af06ba35fdd6f4c6b27e4bb3f1071b43a8918d046ddebf201fcbce7e6b1b8902be34abf2b00f7a647a0f03d5738f7d9f67b4d852a2032634cbe64abb68518d3
   languageName: node
   linkType: hard
 
-"@astrojs/underscore-redirects@npm:0.6.0":
-  version: 0.6.0
-  resolution: "@astrojs/underscore-redirects@npm:0.6.0"
-  checksum: 10c0/fe1895e3a6fa38b246bd9b793b203e590ee52fc426892802cfcd8e1d7d3ef181c919412f664de946ef940b6d0c758473c45997d0cb60cfaf3c95a5e086d1ad3e
+"@astrojs/underscore-redirects@npm:0.6.1":
+  version: 0.6.1
+  resolution: "@astrojs/underscore-redirects@npm:0.6.1"
+  checksum: 10c0/8b8d611ffb9d6580524fc0b837f0791e40cfb21e2c44de359c2cdc5d8516c6762fa3f0cc8d03b43a24d12bc22c5fd380b27ef7fd4a0ca6f3e05a2c216960a84e
   languageName: node
   linkType: hard
 
@@ -341,7 +338,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/plugin-transform-react-jsx-development@npm:^7.22.5, @babel/plugin-transform-react-jsx-development@npm:^7.25.9":
+"@babel/plugin-transform-react-jsx-development@npm:^7.22.5":
   version: 7.25.9
   resolution: "@babel/plugin-transform-react-jsx-development@npm:7.25.9"
   dependencies:
@@ -3294,14 +3291,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"astro@npm:5.7.4":
-  version: 5.7.4
-  resolution: "astro@npm:5.7.4"
+"astro@npm:5.7.5":
+  version: 5.7.5
+  resolution: "astro@npm:5.7.5"
   dependencies:
     "@astrojs/compiler": "npm:^2.11.0"
     "@astrojs/internal-helpers": "npm:0.6.1"
     "@astrojs/markdown-remark": "npm:6.3.1"
-    "@astrojs/telemetry": "npm:3.2.0"
+    "@astrojs/telemetry": "npm:3.2.1"
     "@capsizecss/unpack": "npm:^2.4.0"
     "@oslojs/encoding": "npm:^1.1.0"
     "@rollup/pluginutils": "npm:^5.1.4"
@@ -3363,7 +3360,7 @@ __metadata:
       optional: true
   bin:
     astro: astro.js
-  checksum: 10c0/12f124975b044d60e7e26b19aa73b7b0261accf00089a002c36e7b529aa42e94a2096775a14e6e40c874328245534d1129f20cc64d945d343202b30b6b97fc9d
+  checksum: 10c0/c350269625ad5ccd7030d6a1071562849b0e715d2805e6f381fdfe43d0ba17e677a162343991321c6a09b67f09ccd45d261a5eacceff66308d4b5443ca6516e1
   languageName: node
   linkType: hard
 
@@ -3935,7 +3932,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ci-info@npm:^4.1.0, ci-info@npm:^4.2.0":
+"ci-info@npm:^4.2.0":
   version: 4.2.0
   resolution: "ci-info@npm:4.2.0"
   checksum: 10c0/37a2f4b6a213a5cf835890eb0241f0d5b022f6cfefde58a69e9af8e3a0e71e06d6ad7754b0d4efb9cd2613e58a7a33996d71b56b0d04242722e86666f3f3d058
@@ -3987,10 +3984,10 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "cojocarudavid.me@workspace:."
   dependencies:
-    "@astrojs/mdx": "npm:^4.2.4"
-    "@astrojs/netlify": "npm:^6.3.0"
-    "@astrojs/preact": "npm:^4.0.9"
-    "@astrojs/sitemap": "npm:^3.3.0"
+    "@astrojs/mdx": "npm:^4.2.5"
+    "@astrojs/netlify": "npm:^6.3.1"
+    "@astrojs/preact": "npm:^4.0.10"
+    "@astrojs/sitemap": "npm:^3.3.1"
     "@fontsource-variable/inter": "npm:^5.2.5"
     "@fontsource-variable/montserrat": "npm:^5.2.5"
     "@fontsource/inter": "npm:^5.2.5"
@@ -4007,7 +4004,7 @@ __metadata:
     "@tailwindcss/vite": "npm:^4.1.4"
     "@typescript-eslint/eslint-plugin": "npm:^8.31.0"
     "@typescript-eslint/parser": "npm:^8.31.0"
-    astro: "npm:5.7.4"
+    astro: "npm:5.7.5"
     astro-compressor: "npm:^1.0.0"
     astro-expressive-code: "npm:^0.41.2"
     astro-icon: "npm:^1.1.5"
@@ -4473,7 +4470,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"debug@npm:4, debug@npm:^4.0.0, debug@npm:^4.1.0, debug@npm:^4.1.1, debug@npm:^4.3.1, debug@npm:^4.3.2, debug@npm:^4.3.4, debug@npm:^4.3.7, debug@npm:^4.4.0":
+"debug@npm:4, debug@npm:^4.0.0, debug@npm:^4.1.0, debug@npm:^4.1.1, debug@npm:^4.3.1, debug@npm:^4.3.2, debug@npm:^4.3.4, debug@npm:^4.4.0":
   version: 4.4.0
   resolution: "debug@npm:4.4.0"
   dependencies:
