@@ -3291,9 +3291,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"astro@npm:5.7.6":
-  version: 5.7.6
-  resolution: "astro@npm:5.7.6"
+"astro@npm:5.7.7":
+  version: 5.7.7
+  resolution: "astro@npm:5.7.7"
   dependencies:
     "@astrojs/compiler": "npm:^2.11.0"
     "@astrojs/internal-helpers": "npm:0.6.1"
@@ -3343,7 +3343,7 @@ __metadata:
     tinyglobby: "npm:^0.2.12"
     tsconfck: "npm:^3.1.5"
     ultrahtml: "npm:^1.6.0"
-    unifont: "npm:~0.2.0"
+    unifont: "npm:~0.4.0"
     unist-util-visit: "npm:^5.0.0"
     unstorage: "npm:^1.15.0"
     vfile: "npm:^6.0.3"
@@ -3360,7 +3360,7 @@ __metadata:
       optional: true
   bin:
     astro: astro.js
-  checksum: 10c0/664e2327714da3aa85ceab784758c67b9975ebe6965d857ba063de79d4b26cd58bf4f932f034aa7629d3bb3c5751ce78859aaadc4e01dbed9ccad0513fe7cf20
+  checksum: 10c0/a64953e5e866f7491a769954d9d674f0138213710f4a9f81a787bf216bf96f86ef166d9ca4ca281294521597e7482ca2d92a627067920bb16bde5ccf5346e13e
   languageName: node
   linkType: hard
 
@@ -4004,7 +4004,7 @@ __metadata:
     "@tailwindcss/vite": "npm:^4.1.4"
     "@typescript-eslint/eslint-plugin": "npm:^8.31.0"
     "@typescript-eslint/parser": "npm:^8.31.0"
-    astro: "npm:5.7.6"
+    astro: "npm:5.7.7"
     astro-compressor: "npm:^1.0.0"
     astro-expressive-code: "npm:^0.41.2"
     astro-icon: "npm:^1.1.5"
@@ -11892,13 +11892,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"unifont@npm:~0.2.0":
-  version: 0.2.0
-  resolution: "unifont@npm:0.2.0"
+"unifont@npm:~0.4.0":
+  version: 0.4.1
+  resolution: "unifont@npm:0.4.1"
   dependencies:
     css-tree: "npm:^3.0.0"
     ohash: "npm:^2.0.0"
-  checksum: 10c0/638b6ace1ed65fbd926022f01a16247b45b906c134241ecb665d0d18940d85dfddb160c74f0bd78e0ae0d3d2a3ff89e2bcaaa53ff01d5a35240edc23372d1b3d
+  checksum: 10c0/81e3820496ca2c473251768722d5a8d470a2c0ab87cc8c59bc8aff30c55c5d7a59bfd7df23e833e4ca315d70f1d1777798039cba6648c039983d1f7dda2183c4
   languageName: node
   linkType: hard
 
