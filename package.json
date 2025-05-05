@@ -19,7 +19,7 @@
     "@tailwindcss/typography": "^0.5.16",
     "@typescript-eslint/eslint-plugin": "^8.31.1",
     "@typescript-eslint/parser": "^8.31.1",
-    "astro": "5.7.8",
+    "astro": "5.7.10",
     "astro-expressive-code": "^0.41.2",
     "astro-icon": "^1.1.5",
     "eslint": "^9.25.1",
@@ -33,9 +33,9 @@
     "vite": "^6.3.5"
   },
   "dependencies": {
-    "@astrojs/mdx": "^4.2.5",
-    "@astrojs/netlify": "^6.3.1",
-    "@astrojs/preact": "^4.0.10",
+    "@astrojs/mdx": "^4.2.6",
+    "@astrojs/netlify": "^6.3.2",
+    "@astrojs/preact": "^4.0.11",
     "@fontsource-variable/montserrat": "^5.2.5",
     "@iconify-json/cib": "^1.2.2",
     "@iconify-json/devicon-plain": "^1.2.22",
