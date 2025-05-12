@@ -146,14 +146,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@astrojs/sitemap@npm:^3.3.1":
-  version: 3.3.1
-  resolution: "@astrojs/sitemap@npm:3.3.1"
+"@astrojs/sitemap@npm:^3.4.0":
+  version: 3.4.0
+  resolution: "@astrojs/sitemap@npm:3.4.0"
   dependencies:
     sitemap: "npm:^8.0.0"
     stream-replace-string: "npm:^2.0.0"
     zod: "npm:^3.24.2"
-  checksum: 10c0/7e6baf6378716ab4ecc7927130aeae9881d6f59d5db555ffed57411de5fd3e28186371a79f6f551aa265b6632c4b021dd4b72a8f12b69f7f46f51a74a7bcd022
+  checksum: 10c0/f7b3811cc2eb14161b73933864ad0d525d103390626b4c7c7e42ab290bfe4acc53042e42fdf00cc6a64b7cf34bc5ca3c29ca11a09de85334949d399776f75f67
   languageName: node
   linkType: hard
 
@@ -3960,7 +3960,7 @@ __metadata:
     "@astrojs/mdx": "npm:^4.2.6"
     "@astrojs/netlify": "npm:^6.3.2"
     "@astrojs/preact": "npm:^4.0.11"
-    "@astrojs/sitemap": "npm:^3.3.1"
+    "@astrojs/sitemap": "npm:^3.4.0"
     "@fontsource-variable/inter": "npm:^5.2.5"
     "@fontsource-variable/montserrat": "npm:^5.2.5"
     "@fontsource/inter": "npm:^5.2.5"
