@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Discord4J",
+    "url": "https://github.com/Discord4J/Discord4J",
+    "website": "https://discord4j.com/",
+    "description": "Libreria en Java para el desarrollo de bots en Discord",
+    "languages": [
+      "Java"
+    ],
+    "role": "maintainer"
+  },
+  {
+    "name": "PaperMC",
+    "url": "https://github.com/PaperMC/Paper",
+    "website": "https://papermc.io/software/paper",
+    "description": "Servidor de Minecraft que permite el uso de plugins en el entorno de Bukkit-Paper",
+    "languages": [
+      "Java"
+    ],
+    "role": "contributor"
+  },
+  {
+    "name": "SpigotMC",
+    "website": "https://www.spigotmc.org/",
+    "description": "Servidor de Minecraft que permite el uso de plugins en el entorno de Bukkit-Spigot",
+    "languages": [
+      "Java"
+    ],
+    "role": "contributor"
+  },
+  {
+    "name": "Minecraft DLibCustomExtensions",
+    "url": "https://github.com/Doc94/MC-DLibCustomExtensions",
+    "description": "Libreria para Plugin de Paper que permite la creacion de elementos custom como: items, encantamientos, pociones.",
+    "languages": [
+      "Java"
+    ],
+    "role": "author"
+  },
+  {
+    "name": "Minecraft ConterSubs",
+    "url": "https://github.com/ConterstineMC/ConterSubs",
+    "description": "Plugin de Minecraft para Servidor de Subs de Conterstine",
+    "languages": [
+      "Java"
+    ],
+    "role": "author"
+  }
+]

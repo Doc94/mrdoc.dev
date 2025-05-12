@@ -1,0 +1,130 @@
+{
+  "Lenguajes": [
+    {
+      "text": "Java",
+      "logo": "mdi:language-java"
+    },
+    {
+      "text": "Lua",
+      "logo": "mdi:language-lua"
+    },
+    {
+      "text": "JavaScript",
+      "logo": "mdi:language-javascript"
+    },
+    {
+      "text": "Python",
+      "logo": "mdi:language-python"
+    },
+    {
+      "text": "PHP",
+      "logo": "mdi:language-php"
+    },
+    {
+      "text": "bash",
+      "logo": "mdi:bash"
+    },
+    {
+      "text": "PowerShell",
+      "logo": "mdi:powershell"
+    }
+  ],
+  "Virtualización": [
+    {
+      "text": "Docker",
+      "logo": "mdi:docker"
+    },
+    {
+      "text": "Kubernetes",
+      "logo": "mdi:kubernetes"
+    }
+  ],
+  "Herramientas": [
+    {
+      "text": "Visual Studio Code",
+      "logo": "mdi:visual-studio-code"
+    },
+    {
+      "text": "IntelliJ",
+      "logo": "mdi:idea"
+    },
+    {
+      "text": "Git",
+      "logo": "mdi:git"
+    }
+  ],
+  "Hosting y Servicios en la Nube": [
+    {
+      "text": "AWS",
+      "logo": "mdi:aws"
+    },
+    {
+      "text": "Cloudflare",
+      "logo": "cib:cloudflare"
+    },
+    {
+      "text": "Heroku",
+      "logo": "cib:heroku"
+    },
+    {
+      "text": "Scaleway",
+      "logo": "cib:scaleway"
+    },
+    {
+      "text": "OVH",
+      "logo": "cib:ovh"
+    }
+  ],
+  "Sistemas Operativos": [
+    {
+      "text": "Windows",
+      "logo": "mdi:windows"
+    },
+    {
+      "text": "Ubuntu",
+      "logo": "mdi:ubuntu"
+    }
+  ],
+  "Servidores Web": [
+    {
+      "text": "Apache",
+      "logo": "cib:apache"
+    },
+    {
+      "text": "Nginx",
+      "logo": "cib:nginx"
+    }
+  ],
+  "Bases de Datos": [
+    {
+      "text": "MySQL",
+      "logo": "cib:mysql"
+    },
+    {
+      "text": "PostgreSQL",
+      "logo": "cib:postgresql"
+    },
+    {
+      "text": "SQL Server",
+      "logo": "devicon-plain:microsoftsqlserver"
+    },
+    {
+      "text": "MongoDB",
+      "logo": "cib:mongodb"
+    }
+  ],
+  "Otros Softwares": [
+    {
+      "text": "Discord",
+      "logo": "mdi:discord"
+    },
+    {
+      "text": "Spotify",
+      "logo": "mdi:spotify"
+    },
+    {
+      "text": "Chrome",
+      "logo": "mdi:google-chrome"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+---
+import {Icon} from 'astro-icon/components'
+
+interface SocialLink {
+    href: string
+    label: string
+    icon?: string
+}
+
+interface Props {
+    links: SocialLink[]
+}
+
+const {links} = Astro.props
+---
+
+<ul class="flex flex-wrap gap-2 justify-around w-full mb-4 md:justify-center md:mb-0 md:w-auto" role="list"
+    aria-label="social links">
+    {
+        links.map(({href, label, icon}) => (
+                <li aria-label={label} role="listitem">
+                    <a
+                            href={href}
+                            aria-label={label}
+                            title={label}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                    >
+                        <Icon
+                                name={
+                                    icon ||
+                                    'lucide:message-circle-question'
+                                }
+                                class="size-4"
+                        />
+                    </a>
+                </li>
+        ))
+    }
+</ul>

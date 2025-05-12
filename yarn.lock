@@ -1073,6 +1073,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@iconify-json/fa6-brands@npm:^1.2.5":
+  version: 1.2.5
+  resolution: "@iconify-json/fa6-brands@npm:1.2.5"
+  dependencies:
+    "@iconify/types": "npm:*"
+  checksum: 10c0/e77174dcb5aef3f3d846b799de51fc04cb654558329803d8b4b5e54b3eb3c0eeef2bc95895cbab03a9531b6394af0e84a0d9b90b7c211d49b5271cae36d9dd76
+  languageName: node
+  linkType: hard
+
 "@iconify-json/flag@npm:^1.2.5":
   version: 1.2.5
   resolution: "@iconify-json/flag@npm:1.2.5"
@@ -3966,6 +3975,7 @@ __metadata:
     "@fontsource/inter": "npm:^5.2.5"
     "@iconify-json/cib": "npm:^1.2.2"
     "@iconify-json/devicon-plain": "npm:^1.2.22"
+    "@iconify-json/fa6-brands": "npm:^1.2.5"
     "@iconify-json/flag": "npm:^1.2.5"
     "@iconify-json/mdi": "npm:^1.2.3"
     "@iconify-json/simple-icons": "npm:^1.2.34"

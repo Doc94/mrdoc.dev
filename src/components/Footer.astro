@@ -1,0 +1,17 @@
+---
+import socials from "@data/socials.json";
+import SocialIcons from "@components/SocialIcons.astro";
+---
+
+<footer class="flex items-center text-zinc-400 mt-7 justify-center h-16 w-full flex-col gap-2">
+    <div class="text-sm left-full cursor-default">
+        <SocialIcons links={socials} />
+    </div>
+    <div class="text-sm text-center cursor-default">
+        2021 - <span id="year"></span> {new Date().getFullYear().toString()}
+        &copy;&nbsp;<a href="https://github.com/mrdoc.dev" class="text-zinc-200 hover:text-zinc-500">Doc</a>
+    </div>
+    <p class="text-sm text-center flex flex-col items-center justify-center mt-1 gap-1">
+        All rights reserved.
+    </p>
+</footer>

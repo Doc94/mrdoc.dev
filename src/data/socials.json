@@ -1,0 +1,27 @@
+[
+  {
+    "href": "https://www.github.com/Doc94/",
+    "label": "GitHub",
+    "icon": "fa6-brands:github"
+  },
+  {
+    "href": "https://www.instagram.com/pedrodoc94/",
+    "label": "Instagram",
+    "icon": "fa6-brands:instagram"
+  },
+  {
+    "href": "https://x.com/MrDoc94",
+    "label": "X/Twitter",
+    "icon": "fa6-brands:x-twitter"
+  },
+  {
+    "href": "https://www.twitch.tv/thedoc94",
+    "label": "Twitch",
+    "icon": "fa6-brands:twitch"
+  },
+  {
+    "href": "https://www.youtube.com/@Doc94",
+    "label": "YouTube",
+    "icon": "fa6-brands:youtube"
+  }
+]

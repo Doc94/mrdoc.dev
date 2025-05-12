@@ -1,0 +1,16 @@
+[
+  {
+    "href": "/",
+    "text": "Inicio"
+  },
+  {
+    "href": "/projects/",
+    "text": "Proyectos"
+  },
+  {
+    "href": "https://github.com/doc94/mrdoc.dev",
+    "target": "_blank",
+    "rel": "noopener noreferrer",
+    "text": "GitHub"
+  }
+]

@@ -39,6 +39,7 @@
     "@fontsource-variable/montserrat": "^5.2.5",
     "@iconify-json/cib": "^1.2.2",
     "@iconify-json/devicon-plain": "^1.2.22",
+    "@iconify-json/fa6-brands": "^1.2.5",
     "@iconify-json/flag": "^1.2.5",
     "@iconify-json/mdi": "^1.2.3",
     "@iconify-json/simple-icons": "^1.2.34",
