@@ -7,6 +7,18 @@
     --font-sans: "Montserrat Variable", sans-serif;
 }
 
+/*
+.bg-zinc-900 {
+    background-color: #05180f;
+}
+ */
+
+.dark\:bg-zinc-900 {
+    &:where(.dark, .dark *) {
+        background-color: #022510;
+    }
+}
+
 body,
 html {
     font-family: "Montserrat Variable", sans-serif;
@@ -28,4 +40,21 @@ body::-webkit-scrollbar-thumb {
 body::-webkit-scrollbar-thumb:hover {
     background: linear-gradient(180deg, #4e00cc70, #1e80ff70);
     transition: background 0.4s ease;
+}
+
+.badge-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+}
+
+.badge-banner {
+    display: inline-block;
+    margin: 2px;
+    background: transparent !important;
+}
+
+iframe[name="acclaim-badge"] {
+    background: transparent !important;
 }
