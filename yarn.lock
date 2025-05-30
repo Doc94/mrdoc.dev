@@ -1124,12 +1124,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@iconify-json/flag@npm:^1.2.5":
-  version: 1.2.5
-  resolution: "@iconify-json/flag@npm:1.2.5"
+"@iconify-json/flag@npm:^1.2.6":
+  version: 1.2.6
+  resolution: "@iconify-json/flag@npm:1.2.6"
   dependencies:
     "@iconify/types": "npm:*"
-  checksum: 10c0/fec80dd53f6352002e4b5718138ade9530c627dd030013a9bdb95ddae06e6232205db946d1727c18e6db55c6059b7a7767989d8f14d304889a0a869f236dd79c
+  checksum: 10c0/7b8021f1cac655fb24e049e2923572c23f4012b603ca61f5458f054030a9a59042959215d6dcd3d4624ca6b3fe0ffc54320c94e4edd896314a97cfcc9789a4d8
   languageName: node
   linkType: hard
 
@@ -4385,7 +4385,7 @@ __metadata:
     "@iconify-json/cib": "npm:^1.2.2"
     "@iconify-json/devicon-plain": "npm:^1.2.23"
     "@iconify-json/fa6-brands": "npm:^1.2.5"
-    "@iconify-json/flag": "npm:^1.2.5"
+    "@iconify-json/flag": "npm:^1.2.6"
     "@iconify-json/mdi": "npm:^1.2.3"
     "@iconify-json/simple-icons": "npm:^1.2.36"
     "@octokit/core": "npm:^7.0.2"
