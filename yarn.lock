@@ -146,14 +146,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@astrojs/sitemap@npm:^3.4.0":
-  version: 3.4.0
-  resolution: "@astrojs/sitemap@npm:3.4.0"
+"@astrojs/sitemap@npm:^3.4.1":
+  version: 3.4.1
+  resolution: "@astrojs/sitemap@npm:3.4.1"
   dependencies:
     sitemap: "npm:^8.0.0"
     stream-replace-string: "npm:^2.0.0"
     zod: "npm:^3.24.2"
-  checksum: 10c0/f7b3811cc2eb14161b73933864ad0d525d103390626b4c7c7e42ab290bfe4acc53042e42fdf00cc6a64b7cf34bc5ca3c29ca11a09de85334949d399776f75f67
+  checksum: 10c0/d36ba848c753f1abcc9cc603d38be8cb355ed86c8481168b8405d822fbc07d2eb6b971fd25f2e8cb98b889e7d1c2bafb736808ab3f6ad25d6b2da46dd5173b7e
   languageName: node
   linkType: hard
 
@@ -3632,9 +3632,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"astro@npm:5.8.1":
-  version: 5.8.1
-  resolution: "astro@npm:5.8.1"
+"astro@npm:5.8.2":
+  version: 5.8.2
+  resolution: "astro@npm:5.8.2"
   dependencies:
     "@astrojs/compiler": "npm:^2.11.0"
     "@astrojs/internal-helpers": "npm:0.6.1"
@@ -3703,7 +3703,7 @@ __metadata:
       optional: true
   bin:
     astro: astro.js
-  checksum: 10c0/8425d9f7e09266cf841ac0ea6e77dd4038074b66eb3ab7aa2ac0f10b5ff15920b9d3f7fbf5288cdc9478a26420a4ce8983493de585df546245648a4c26247e02
+  checksum: 10c0/b4db65d9a193fdbba8b9bddb8d8e97d8c55078f2a4323bdad943bc18d8b3bf0d71d84461b062877b864ba9b395b98695c82e45a1b135146e1b5c5034e96b5645
   languageName: node
   linkType: hard
 
@@ -4380,7 +4380,7 @@ __metadata:
     "@astrojs/mdx": "npm:^4.3.0"
     "@astrojs/netlify": "npm:^6.3.4"
     "@astrojs/preact": "npm:^4.1.0"
-    "@astrojs/sitemap": "npm:^3.4.0"
+    "@astrojs/sitemap": "npm:^3.4.1"
     "@fontsource-variable/inter": "npm:^5.2.5"
     "@fontsource-variable/montserrat": "npm:^5.2.5"
     "@fontsource/inter": "npm:^5.2.5"
@@ -4398,7 +4398,7 @@ __metadata:
     "@tailwindcss/vite": "npm:^4.1.8"
     "@typescript-eslint/eslint-plugin": "npm:^8.33.1"
     "@typescript-eslint/parser": "npm:^8.33.1"
-    astro: "npm:5.8.1"
+    astro: "npm:5.8.2"
     astro-compressor: "npm:^1.0.0"
     astro-expressive-code: "npm:^0.41.2"
     astro-icon: "npm:^1.1.5"

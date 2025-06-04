@@ -12,14 +12,14 @@
     "test:watch": "astro test --watch"
   },
   "devDependencies": {
-    "@astrojs/sitemap": "^3.4.0",
+    "@astrojs/sitemap": "^3.4.1",
     "@fontsource-variable/inter": "^5.2.5",
     "@fontsource/inter": "^5.2.5",
     "@resvg/resvg-js": "^2.6.2",
     "@tailwindcss/typography": "^0.5.16",
     "@typescript-eslint/eslint-plugin": "^8.33.1",
     "@typescript-eslint/parser": "^8.33.1",
-    "astro": "5.8.1",
+    "astro": "5.8.2",
     "astro-expressive-code": "^0.41.2",
     "astro-icon": "^1.1.5",
     "eslint": "^9.28.0",
