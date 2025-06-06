@@ -4413,7 +4413,7 @@ __metadata:
     eslint-plugin-astro: "npm:^1.3.1"
     preact: "npm:^10.26.8"
     prettier-plugin-astro: "npm:^0.14.1"
-    satori: "npm:^0.13.1"
+    satori: "npm:^0.14.0"
     satori-html: "npm:^0.3.2"
     sharp: "npm:^0.34.2"
     tailwindcss: "npm:^4.1.8"
@@ -11998,9 +11998,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"satori@npm:^0.13.1":
-  version: 0.13.1
-  resolution: "satori@npm:0.13.1"
+"satori@npm:^0.14.0":
+  version: 0.14.0
+  resolution: "satori@npm:0.14.0"
   dependencies:
     "@shuding/opentype.js": "npm:1.4.0-beta.0"
     css-background-parser: "npm:^0.1.0"
@@ -12013,7 +12013,7 @@ __metadata:
     parse-css-color: "npm:^0.2.1"
     postcss-value-parser: "npm:^4.2.0"
     yoga-wasm-web: "npm:^0.3.3"
-  checksum: 10c0/d7cc1187e4f1415cbf4c9a69f80c0cd8d1e427c321e0636932ea71aeae1c63c3d0370b087daee336fe12a959e11de98b0105a55b6c14a7eb8e0edeb0826bac9d
+  checksum: 10c0/d80ebd8e01c0bb48cf9add992d6029a6463a70c5c1ad6bce5ef0d672fcb6025dba77413aafd799474f2ee01c233ca646a98f486edaf5525e8e5aea1525509118
   languageName: node
   linkType: hard
 
