@@ -48,7 +48,7 @@
     "@tailwindcss/postcss": "^4.1.8",
     "@tailwindcss/vite": "^4.1.8",
     "astro-compressor": "^1.0.0",
-    "preact": "^10.26.8",
+    "preact": "^10.26.9",
     "tailwindcss": "^4.1.8",
     "vite-plugin-compress": "^2.1.1"
   },
