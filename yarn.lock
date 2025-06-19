@@ -112,12 +112,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@astrojs/netlify@npm:^6.3.4":
-  version: 6.3.4
-  resolution: "@astrojs/netlify@npm:6.3.4"
+"@astrojs/netlify@npm:^6.4.0":
+  version: 6.4.0
+  resolution: "@astrojs/netlify@npm:6.4.0"
   dependencies:
     "@astrojs/internal-helpers": "npm:0.6.1"
-    "@astrojs/underscore-redirects": "npm:0.6.1"
+    "@astrojs/underscore-redirects": "npm:1.0.0"
     "@netlify/blobs": "npm:^8.2.0"
     "@netlify/functions": "npm:^3.1.5"
     "@vercel/nft": "npm:^0.29.2"
@@ -126,7 +126,7 @@ __metadata:
     vite: "npm:^6.3.5"
   peerDependencies:
     astro: ^5.3.0
-  checksum: 10c0/4e96f298ec620435cb6d43a4d67b58a25239fe2f96d16ca974595697707364892f208ca17ffe9e5a589dc3614de0cab02cd02affbe12fa972253877eb1e99081
+  checksum: 10c0/43eba197a7fdff37bed30d6f40b36ef1b55805eaf393aef6c927739c7b04a7100a0e9dcb0eefec8b81c99560a8d10f9844f1fd20ecfcfd664a3b59f4f0a491de
   languageName: node
   linkType: hard
 
@@ -179,10 +179,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@astrojs/underscore-redirects@npm:0.6.1":
-  version: 0.6.1
-  resolution: "@astrojs/underscore-redirects@npm:0.6.1"
-  checksum: 10c0/8b8d611ffb9d6580524fc0b837f0791e40cfb21e2c44de359c2cdc5d8516c6762fa3f0cc8d03b43a24d12bc22c5fd380b27ef7fd4a0ca6f3e05a2c216960a84e
+"@astrojs/underscore-redirects@npm:1.0.0":
+  version: 1.0.0
+  resolution: "@astrojs/underscore-redirects@npm:1.0.0"
+  checksum: 10c0/f2554e1ae0d605b1eca54ffb67269eff6ff58fcdaf34ecd9ba0c0f6751c9e0fdb806c896b6b4e1adb47e291f18d7b7b4dc554334a45c231d5d1da25d73524e8a
   languageName: node
   linkType: hard
 
@@ -3648,9 +3648,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"astro@npm:5.9.3":
-  version: 5.9.3
-  resolution: "astro@npm:5.9.3"
+"astro@npm:5.9.4":
+  version: 5.9.4
+  resolution: "astro@npm:5.9.4"
   dependencies:
     "@astrojs/compiler": "npm:^2.12.2"
     "@astrojs/internal-helpers": "npm:0.6.1"
@@ -3719,7 +3719,7 @@ __metadata:
       optional: true
   bin:
     astro: astro.js
-  checksum: 10c0/378797bef1a4b57e38cb15b230ebe230e3f60a1c94ef9c1dc67fde1ae2df1ae34c36189ee28039e175c4d5a20167e3dddba8186d4cc4b3328277941d40fe9d9a
+  checksum: 10c0/418ee50278ae78a04ac40fe73a969fa16395d7ba49f448e76ba22b85a5420e94b9839223ed715fb40b5027eef583f28f6440186587aeefbb1d2080cdd9e4865a
   languageName: node
   linkType: hard
 
@@ -4394,7 +4394,7 @@ __metadata:
   resolution: "cojocarudavid.me@workspace:."
   dependencies:
     "@astrojs/mdx": "npm:^4.3.0"
-    "@astrojs/netlify": "npm:^6.3.4"
+    "@astrojs/netlify": "npm:^6.4.0"
     "@astrojs/preact": "npm:^4.1.0"
     "@astrojs/sitemap": "npm:^3.4.1"
     "@fontsource-variable/inter": "npm:^5.2.6"
@@ -4414,7 +4414,7 @@ __metadata:
     "@tailwindcss/vite": "npm:^4.1.10"
     "@typescript-eslint/eslint-plugin": "npm:^8.34.1"
     "@typescript-eslint/parser": "npm:^8.34.1"
-    astro: "npm:5.9.3"
+    astro: "npm:5.9.4"
     astro-compressor: "npm:^1.0.0"
     astro-expressive-code: "npm:^0.41.2"
     astro-icon: "npm:^1.1.5"
