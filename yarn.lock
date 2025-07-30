@@ -4498,9 +4498,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"astro@npm:5.12.4":
-  version: 5.12.4
-  resolution: "astro@npm:5.12.4"
+"astro@npm:5.12.6":
+  version: 5.12.6
+  resolution: "astro@npm:5.12.6"
   dependencies:
     "@astrojs/compiler": "npm:^2.12.2"
     "@astrojs/internal-helpers": "npm:0.6.1"
@@ -4570,7 +4570,7 @@ __metadata:
       optional: true
   bin:
     astro: astro.js
-  checksum: 10c0/ff4656e6fd9b6e7ab3ae35cb59129a368b74162de57d21e8cfcbca04de40a82483754cd851791aabc74d972301e6eb410add455a8ea8de15a1b5b016a5e6f9e4
+  checksum: 10c0/dfdb5f6fbf02bca3ffbc8eb9ac67a942b8f43f4be1d00860dc4cb2e29f22e7054d36d723a4ecf0abb9bbf1032b87fffa90f9e627f8605e18db4ce9254a7f18d8
   languageName: node
   linkType: hard
 
@@ -5327,7 +5327,7 @@ __metadata:
     "@tailwindcss/vite": "npm:^4.1.11"
     "@typescript-eslint/eslint-plugin": "npm:^8.38.0"
     "@typescript-eslint/parser": "npm:^8.38.0"
-    astro: "npm:5.12.4"
+    astro: "npm:5.12.6"
     astro-compressor: "npm:^1.1.1"
     astro-expressive-code: "npm:^0.41.3"
     astro-icon: "npm:^1.1.5"
