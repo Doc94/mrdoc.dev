@@ -7,6 +7,10 @@
     {
       "matchPackageNames": ["*"],
       "rangeStrategy": "bump"
+    },
+    {
+      "matchPackagePatterns": ["^@iconify-json\\/"],
+      "groupName": "Iconify JSON packages"
     }
   ]
 }
