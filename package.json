@@ -42,7 +42,7 @@
     "@iconify-json/fa6-brands": "^1.2.6",
     "@iconify-json/flag": "^1.2.9",
     "@iconify-json/mdi": "^1.2.3",
-    "@iconify-json/simple-icons": "^1.2.48",
+    "@iconify-json/simple-icons": "^1.2.49",
     "@octokit/core": "^7.0.3",
     "@playform/build": "^0.2.5",
     "@tailwindcss/postcss": "^4.1.12",
