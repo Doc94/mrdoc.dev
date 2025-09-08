@@ -1332,10 +1332,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fontsource-variable/montserrat@npm:^5.2.6":
-  version: 5.2.6
-  resolution: "@fontsource-variable/montserrat@npm:5.2.6"
-  checksum: 10c0/6ddc7fe5c388558b89606a232488b4c5a63da5bc322635cf69e449b9c8d2627b040a3af8fbc79a1ea267051820011f9976d9e8a5104412d51bd3103739b6e943
+"@fontsource-variable/montserrat@npm:^5.2.7":
+  version: 5.2.7
+  resolution: "@fontsource-variable/montserrat@npm:5.2.7"
+  checksum: 10c0/dcc9c94fdaa640202f71e182849e84649687328631cbba3687e0bb8f94a8046248e377da8698e911bff5654c0b963f86751e7b50e539bbce14ad59fa5c15b477
   languageName: node
   linkType: hard
 
@@ -5413,7 +5413,7 @@ __metadata:
     "@astrojs/preact": "npm:^4.1.0"
     "@astrojs/sitemap": "npm:^3.5.1"
     "@fontsource-variable/inter": "npm:^5.2.6"
-    "@fontsource-variable/montserrat": "npm:^5.2.6"
+    "@fontsource-variable/montserrat": "npm:^5.2.7"
     "@fontsource/inter": "npm:^5.2.6"
     "@iconify-json/cib": "npm:^1.2.3"
     "@iconify-json/devicon-plain": "npm:^1.2.39"
