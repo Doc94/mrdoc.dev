@@ -36,7 +36,7 @@
     "@astrojs/mdx": "^4.3.4",
     "@astrojs/netlify": "^6.5.9",
     "@astrojs/preact": "^4.1.0",
-    "@fontsource-variable/montserrat": "^5.2.6",
+    "@fontsource-variable/montserrat": "^5.2.7",
     "@iconify-json/cib": "^1.2.3",
     "@iconify-json/devicon-plain": "^1.2.39",
     "@iconify-json/fa6-brands": "^1.2.6",
