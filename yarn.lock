@@ -1316,10 +1316,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fontsource-variable/inter@npm:^5.2.6":
-  version: 5.2.6
-  resolution: "@fontsource-variable/inter@npm:5.2.6"
-  checksum: 10c0/946efe63cb0328433e8cf00af95cd2fb6f2e9e8b9c0bbf2170376f3d941c5c4b332f0279b5e73cbe05ac04ad01751c1d108d0a625e00e4f8c2ffca35b33d402f
+"@fontsource-variable/inter@npm:^5.2.7":
+  version: 5.2.7
+  resolution: "@fontsource-variable/inter@npm:5.2.7"
+  checksum: 10c0/fb4c9ef95abafa6ea35ee11b69057964e21613dfad0ccad54bf9ae696c510cd456c5be2c0cd5408adb2256be1418edc435cb3b873a5b57ca4f4045d89e48fca5
   languageName: node
   linkType: hard
 
@@ -1330,10 +1330,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fontsource/inter@npm:^5.2.6":
-  version: 5.2.6
-  resolution: "@fontsource/inter@npm:5.2.6"
-  checksum: 10c0/7a1347608aab06e53665272ed41fd906ffa96c57b004e8aae91b98177bba97c54b60305d956254c4771387c383f9bdbd917006fb34c9721c020e6017d33e9a5c
+"@fontsource/inter@npm:^5.2.7":
+  version: 5.2.7
+  resolution: "@fontsource/inter@npm:5.2.7"
+  checksum: 10c0/e85d098c2955e847a1929bd80e936af490d97fc43e7896f88915fac62649d7803119532b88108304f66350477cc11dbdf9ab2a9b78f7f9aeb283d1762854079d
   languageName: node
   linkType: hard
 
@@ -5284,9 +5284,9 @@ __metadata:
     "@astrojs/netlify": "npm:^6.5.10"
     "@astrojs/preact": "npm:^4.1.1"
     "@astrojs/sitemap": "npm:^3.5.1"
-    "@fontsource-variable/inter": "npm:^5.2.6"
+    "@fontsource-variable/inter": "npm:^5.2.7"
     "@fontsource-variable/montserrat": "npm:^5.2.7"
-    "@fontsource/inter": "npm:^5.2.6"
+    "@fontsource/inter": "npm:^5.2.7"
     "@iconify-json/cib": "npm:^1.2.3"
     "@iconify-json/devicon-plain": "npm:^1.2.39"
     "@iconify-json/fa6-brands": "npm:^1.2.6"
