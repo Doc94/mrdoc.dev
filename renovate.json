@@ -6,11 +6,13 @@
   "packageRules": [
     {
       "matchPackageNames": ["*"],
-      "rangeStrategy": "bump"
+      "rangeStrategy": "bump",
+      "automerge": true
     },
     {
       "matchPackagePatterns": ["^@iconify-json\\/"],
-      "groupName": "Iconify JSON packages"
+      "groupName": "Iconify JSON packages",
+      "automerge": true
     }
   ]
 }
