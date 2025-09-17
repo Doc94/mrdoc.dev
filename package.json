@@ -27,7 +27,7 @@
     "prettier-plugin-astro": "^0.14.1",
     "satori": "^0.18.3",
     "satori-html": "^0.3.2",
-    "sharp": "^0.34.3",
+    "sharp": "^0.34.4",
     "tsm": "^2.3.0",
     "typescript": "^5.9.2",
     "vite": "^7.1.5"
