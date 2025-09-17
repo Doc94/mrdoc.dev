@@ -1316,24 +1316,24 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fontsource-variable/inter@npm:^5.2.7":
-  version: 5.2.7
-  resolution: "@fontsource-variable/inter@npm:5.2.7"
-  checksum: 10c0/fb4c9ef95abafa6ea35ee11b69057964e21613dfad0ccad54bf9ae696c510cd456c5be2c0cd5408adb2256be1418edc435cb3b873a5b57ca4f4045d89e48fca5
+"@fontsource-variable/inter@npm:^5.2.8":
+  version: 5.2.8
+  resolution: "@fontsource-variable/inter@npm:5.2.8"
+  checksum: 10c0/35b46df31c8c18f55f87228acf6297e4dac6cc9f38d0faaafdaf5a40e40c386cf1bfb115fb0fe0dcdb9b7e14f582843693ccf070d9c903072a5b2fc0f8dfde56
   languageName: node
   linkType: hard
 
-"@fontsource-variable/montserrat@npm:^5.2.7":
-  version: 5.2.7
-  resolution: "@fontsource-variable/montserrat@npm:5.2.7"
-  checksum: 10c0/dcc9c94fdaa640202f71e182849e84649687328631cbba3687e0bb8f94a8046248e377da8698e911bff5654c0b963f86751e7b50e539bbce14ad59fa5c15b477
+"@fontsource-variable/montserrat@npm:^5.2.8":
+  version: 5.2.8
+  resolution: "@fontsource-variable/montserrat@npm:5.2.8"
+  checksum: 10c0/b37baacec7e2030b2058525f33de093f253f4248e8a539f4b7161005c6bff967bf2edecd93055f3767e44a6943051e831afbdb873d3924474fd502aa237d0abc
   languageName: node
   linkType: hard
 
-"@fontsource/inter@npm:^5.2.7":
-  version: 5.2.7
-  resolution: "@fontsource/inter@npm:5.2.7"
-  checksum: 10c0/e85d098c2955e847a1929bd80e936af490d97fc43e7896f88915fac62649d7803119532b88108304f66350477cc11dbdf9ab2a9b78f7f9aeb283d1762854079d
+"@fontsource/inter@npm:^5.2.8":
+  version: 5.2.8
+  resolution: "@fontsource/inter@npm:5.2.8"
+  checksum: 10c0/f737dd50005e4809887ba55ae0c9b7174216d6d14875d17a4fbb9a0ad75dec4265928b805a43fe16a23f14a878f1974a398bbfc84ad65c79fc4d4b9c3ea154e1
   languageName: node
   linkType: hard
 
@@ -5300,9 +5300,9 @@ __metadata:
     "@astrojs/netlify": "npm:^6.5.10"
     "@astrojs/preact": "npm:^4.1.1"
     "@astrojs/sitemap": "npm:^3.5.1"
-    "@fontsource-variable/inter": "npm:^5.2.7"
-    "@fontsource-variable/montserrat": "npm:^5.2.7"
-    "@fontsource/inter": "npm:^5.2.7"
+    "@fontsource-variable/inter": "npm:^5.2.8"
+    "@fontsource-variable/montserrat": "npm:^5.2.8"
+    "@fontsource/inter": "npm:^5.2.8"
     "@iconify-json/cib": "npm:^1.2.3"
     "@iconify-json/devicon-plain": "npm:^1.2.39"
     "@iconify-json/fa6-brands": "npm:^1.2.6"
