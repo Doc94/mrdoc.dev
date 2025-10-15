@@ -4601,10 +4601,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"astro-compressor@npm:^1.1.2":
-  version: 1.1.2
-  resolution: "astro-compressor@npm:1.1.2"
-  checksum: 10c0/42c816fb39d6c238d7022af1edc2b9a86dfdedcc9e7b5aff308ba5e25fd5e8a47f76708a03b7dc318ed3083ae92263e771aa92f7a54e40892b1f7b20234d420c
+"astro-compressor@npm:^1.2.0":
+  version: 1.2.0
+  resolution: "astro-compressor@npm:1.2.0"
+  checksum: 10c0/42fbb8f4450ed16a85806190bc4c6a32108c8274532a53a3be01db94ebab7e84bc31e5ebf320866a3a0f1747623824b92bc9f2da140bedf5f9cbb22719e1126b
   languageName: node
   linkType: hard
 
@@ -5473,7 +5473,7 @@ __metadata:
     "@typescript-eslint/eslint-plugin": "npm:^8.46.1"
     "@typescript-eslint/parser": "npm:^8.46.1"
     astro: "npm:5.14.5"
-    astro-compressor: "npm:^1.1.2"
+    astro-compressor: "npm:^1.2.0"
     astro-expressive-code: "npm:^0.41.3"
     astro-icon: "npm:^1.1.5"
     eslint: "npm:^9.37.0"
