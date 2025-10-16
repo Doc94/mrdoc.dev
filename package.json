@@ -47,7 +47,7 @@
     "@playform/build": "^0.2.5",
     "@tailwindcss/postcss": "^4.1.14",
     "@tailwindcss/vite": "^4.1.14",
-    "astro-compressor": "^1.1.2",
+    "astro-compressor": "^1.2.0",
     "preact": "^10.27.2",
     "tailwindcss": "^4.1.14",
     "vite-plugin-compress": "^2.1.1"
