@@ -43,7 +43,7 @@
     "@iconify-json/flag": "^1.2.10",
     "@iconify-json/mdi": "^1.2.3",
     "@iconify-json/simple-icons": "^1.2.56",
-    "@octokit/core": "^7.0.5",
+    "@octokit/core": "^7.0.6",
     "@playform/build": "^0.2.5",
     "@tailwindcss/postcss": "^4.1.16",
     "@tailwindcss/vite": "^4.1.16",
