@@ -5798,7 +5798,7 @@ __metadata:
     astro-expressive-code: "npm:^0.41.3"
     astro-icon: "npm:^1.1.5"
     eslint: "npm:^9.39.1"
-    eslint-plugin-astro: "npm:^1.4.0"
+    eslint-plugin-astro: "npm:^1.5.0"
     preact: "npm:^10.27.2"
     prettier-plugin-astro: "npm:^0.14.1"
     satori: "npm:^0.18.3"
@@ -7778,9 +7778,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-plugin-astro@npm:^1.4.0":
-  version: 1.4.0
-  resolution: "eslint-plugin-astro@npm:1.4.0"
+"eslint-plugin-astro@npm:^1.5.0":
+  version: 1.5.0
+  resolution: "eslint-plugin-astro@npm:1.5.0"
   dependencies:
     "@eslint-community/eslint-utils": "npm:^4.2.0"
     "@jridgewell/sourcemap-codec": "npm:^1.4.14"
@@ -7792,7 +7792,7 @@ __metadata:
     postcss-selector-parser: "npm:^7.0.0"
   peerDependencies:
     eslint: ">=8.57.0"
-  checksum: 10c0/752e7b45a721bb025a88afc7b49f40489a4d31ecbaf89fc20db58b31b2bb49b7503f771d56597a84b060f3d775a0dda655169efe2a783fb1b445e83098eaba63
+  checksum: 10c0/e18ec1fd648be7cc9ae196983cb8f8567afc8b317c3d0a7fcb9b12c44ba93a232d8e7eb5942f93e7c092e2e2dcd07289de91a590f7aa8f45ea17921abf8f559b
   languageName: node
   linkType: hard
 
