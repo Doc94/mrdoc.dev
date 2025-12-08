@@ -1453,12 +1453,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@iconify-json/simple-icons@npm:^1.2.61":
-  version: 1.2.61
-  resolution: "@iconify-json/simple-icons@npm:1.2.61"
+"@iconify-json/simple-icons@npm:^1.2.62":
+  version: 1.2.62
+  resolution: "@iconify-json/simple-icons@npm:1.2.62"
   dependencies:
     "@iconify/types": "npm:*"
-  checksum: 10c0/d23130107c1e1c640998828a3f77f4d5b33140061fa90d70a87ee5a2ab50523f3dbaa2ac1feeb920cb1dd6965ca9840e809f0e0ffbdf5b0e0a67dd893cda6c7b
+  checksum: 10c0/7de3beca2b76779e08ce2ac4b350a769b0e15c0ade56718f8b7282233734680237ff9f71459a176812e90f645bf9d5cd2043c1a7c7af96db33daf6a11857258c
   languageName: node
   linkType: hard
 
@@ -5717,7 +5717,7 @@ __metadata:
     "@iconify-json/fa6-brands": "npm:^1.2.6"
     "@iconify-json/flag": "npm:^1.2.10"
     "@iconify-json/mdi": "npm:^1.2.3"
-    "@iconify-json/simple-icons": "npm:^1.2.61"
+    "@iconify-json/simple-icons": "npm:^1.2.62"
     "@octokit/core": "npm:^7.0.6"
     "@playform/build": "npm:^0.2.5"
     "@resvg/resvg-js": "npm:^2.6.2"
