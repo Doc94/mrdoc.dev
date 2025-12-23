@@ -1589,12 +1589,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@iconify-json/devicon-plain@npm:^1.2.49":
-  version: 1.2.49
-  resolution: "@iconify-json/devicon-plain@npm:1.2.49"
+"@iconify-json/devicon-plain@npm:^1.2.50":
+  version: 1.2.50
+  resolution: "@iconify-json/devicon-plain@npm:1.2.50"
   dependencies:
     "@iconify/types": "npm:*"
-  checksum: 10c0/f460c7fa70867014706188539ecd66eea018dfc63c710724aa8ff953a6a05d42fc1a88066f76ba5150c5ccaa07c35cbb6bca8e97cffd3ef138c436e173cee4b0
+  checksum: 10c0/7e8e795b5309ea1a498d807a2875edc3c621c0380d68d3466b8edc6082a0e7f2c6b06767afa06c2fad71280487f73b8ec270ca3a8b5cfb7b875555c0fadd1a2f
   languageName: node
   linkType: hard
 
@@ -5884,7 +5884,7 @@ __metadata:
     "@fontsource-variable/montserrat": "npm:^5.2.8"
     "@fontsource/inter": "npm:^5.2.8"
     "@iconify-json/cib": "npm:^1.2.3"
-    "@iconify-json/devicon-plain": "npm:^1.2.49"
+    "@iconify-json/devicon-plain": "npm:^1.2.50"
     "@iconify-json/fa6-brands": "npm:^1.2.6"
     "@iconify-json/flag": "npm:^1.2.10"
     "@iconify-json/mdi": "npm:^1.2.3"
