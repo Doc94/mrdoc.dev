@@ -1341,12 +1341,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@iconify-json/devicon-plain@npm:^1.2.56":
-  version: 1.2.56
-  resolution: "@iconify-json/devicon-plain@npm:1.2.56"
+"@iconify-json/devicon-plain@npm:^1.2.57":
+  version: 1.2.57
+  resolution: "@iconify-json/devicon-plain@npm:1.2.57"
   dependencies:
     "@iconify/types": "npm:*"
-  checksum: 10c0/5e592061873462257361384f764ade69e2be0fc0629747dab448de5f3af41246be15876b696d14f757540a3809b4f07b424e0489d3ddbcbe5ff98d850e0c29fa
+  checksum: 10c0/f77d8cfa7309a09cad0f0c2eec850f34763d69c44baa538cba7376fa76d3727890d1df35fed5128d0028ab882f099d841b76233d7672cce011af95309a70a9b1
   languageName: node
   linkType: hard
 
@@ -1377,12 +1377,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@iconify-json/simple-icons@npm:^1.2.75":
-  version: 1.2.75
-  resolution: "@iconify-json/simple-icons@npm:1.2.75"
+"@iconify-json/simple-icons@npm:^1.2.76":
+  version: 1.2.76
+  resolution: "@iconify-json/simple-icons@npm:1.2.76"
   dependencies:
     "@iconify/types": "npm:*"
-  checksum: 10c0/55fee14eb95e00876b7c4d693b3c1c212642597bdebbce03e5800d3d1ac14de40e9111ae4c0cbe9f8793ce38fd00896aab68d865ac78bd5d783848163d9fd638
+  checksum: 10c0/468ffdc2822cfa38b6309381c0344f6b40014d6e2b8f8703f9c0db6cafcfd23ec70ad846d82643c269ec41fee1a31480d8e331e92673ec99de9b6c58d9277350
   languageName: node
   linkType: hard
 
@@ -5530,11 +5530,11 @@ __metadata:
     "@fontsource-variable/montserrat": "npm:^5.2.8"
     "@fontsource/inter": "npm:^5.2.8"
     "@iconify-json/cib": "npm:^1.2.3"
-    "@iconify-json/devicon-plain": "npm:^1.2.56"
+    "@iconify-json/devicon-plain": "npm:^1.2.57"
     "@iconify-json/fa6-brands": "npm:^1.2.6"
     "@iconify-json/flag": "npm:^1.2.11"
     "@iconify-json/mdi": "npm:^1.2.3"
-    "@iconify-json/simple-icons": "npm:^1.2.75"
+    "@iconify-json/simple-icons": "npm:^1.2.76"
     "@octokit/core": "npm:^7.0.6"
     "@playform/build": "npm:^0.3.0"
     "@resvg/resvg-js": "npm:^2.6.2"
