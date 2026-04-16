@@ -54,7 +54,7 @@
   },
   "license": "MIT",
   "engines": {
-    "node": ">=24.14.1"
+    "node": ">=24.15.0"
   },
   "browserslist": [
     "> 0.25%",
