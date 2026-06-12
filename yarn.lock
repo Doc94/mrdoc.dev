@@ -94,9 +94,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@astrojs/mdx@npm:^6.0.1":
-  version: 6.0.1
-  resolution: "@astrojs/mdx@npm:6.0.1"
+"@astrojs/mdx@npm:^6.0.3":
+  version: 6.0.3
+  resolution: "@astrojs/mdx@npm:6.0.3"
   dependencies:
     "@astrojs/internal-helpers": "npm:0.10.0"
     "@astrojs/markdown-remark": "npm:7.2.0"
@@ -113,18 +113,18 @@ __metadata:
     unist-util-visit: "npm:^5.1.0"
     vfile: "npm:^6.0.3"
   peerDependencies:
-    "@astrojs/markdown-satteri": 0.2.1
+    "@astrojs/markdown-satteri": 0.3.0
     astro: ^6.4.0
   peerDependenciesMeta:
     "@astrojs/markdown-satteri":
       optional: true
-  checksum: 10c0/7a19232fa64170bb0239ead0fec72307deb831c0f5b8f90eccb299d68c658231e06e8f9cec1b0144ac2427e1be95b422a26ccf9e351bcc088040796da63d0499
+  checksum: 10c0/465a22ed07325e7dc84e926ec24d0f1f5b9b2770342e6cb1746ccf752f1bcdcd46e8beb4ecbee6f298a4bbe535ace02fdbd0ae29c1c81aa1e5201e252be9917f
   languageName: node
   linkType: hard
 
-"@astrojs/netlify@npm:^7.0.11":
-  version: 7.0.11
-  resolution: "@astrojs/netlify@npm:7.0.11"
+"@astrojs/netlify@npm:^7.0.13":
+  version: 7.0.13
+  resolution: "@astrojs/netlify@npm:7.0.13"
   dependencies:
     "@astrojs/internal-helpers": "npm:0.10.0"
     "@astrojs/underscore-redirects": "npm:1.0.3"
@@ -137,23 +137,23 @@ __metadata:
     vite: "npm:^7.3.2"
   peerDependencies:
     astro: ^6.0.0
-  checksum: 10c0/5fbd399226d80beb382b3b6730934a8080d06ab5a4c2a05b82d7ecb2134d7520c3d7251a97eb30e3592b918b779159363bbcfc4646c830391292572b8278379f
+  checksum: 10c0/75ef36c4c6e7474801ac8999bf8a496de4ce753ce84ea51ab204fde0c5c00edfb67b8ac9323a9b243c67ed528aa171e21f30a94ee5decfd9918accab472ed3e7
   languageName: node
   linkType: hard
 
-"@astrojs/preact@npm:^5.1.4":
-  version: 5.1.4
-  resolution: "@astrojs/preact@npm:5.1.4"
+"@astrojs/preact@npm:^5.1.5":
+  version: 5.1.5
+  resolution: "@astrojs/preact@npm:5.1.5"
   dependencies:
     "@astrojs/internal-helpers": "npm:0.10.0"
     "@preact/preset-vite": "npm:^2.10.5"
     "@preact/signals": "npm:^2.8.2"
-    devalue: "npm:^5.6.4"
+    devalue: "npm:^5.8.1"
     preact-render-to-string: "npm:^6.6.6"
     vite: "npm:^7.3.2"
   peerDependencies:
     preact: ^10.6.5
-  checksum: 10c0/011c58d73ac720a6acc6ee88eda63e6fa92590a1a94c94a8604e59ca3a79bf634f8f7d32f681a77eba6e4da4231673861b8aa2012c6cd6a87266fbb1ae4094a5
+  checksum: 10c0/1f085b1c7ec210908a9536f5f9dd1d1f7394edfab298a3a9c0a2f5ca37199f3294237a32ae8d807727839cb0116355fc6c57c9c9074c166180cd5874eb1ebb5f
   languageName: node
   linkType: hard
 
@@ -4875,9 +4875,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"astro@npm:6.4.2":
-  version: 6.4.2
-  resolution: "astro@npm:6.4.2"
+"astro@npm:6.4.6":
+  version: 6.4.6
+  resolution: "astro@npm:6.4.6"
   dependencies:
     "@astrojs/compiler": "npm:^4.0.0"
     "@astrojs/internal-helpers": "npm:0.10.0"
@@ -4893,7 +4893,7 @@ __metadata:
     clsx: "npm:^2.1.1"
     common-ancestor-path: "npm:^2.0.0"
     cookie: "npm:^1.1.1"
-    devalue: "npm:^5.6.3"
+    devalue: "npm:^5.8.1"
     diff: "npm:^8.0.3"
     dset: "npm:^3.1.4"
     es-module-lexer: "npm:^2.0.0"
@@ -4940,7 +4940,7 @@ __metadata:
       optional: true
   bin:
     astro: ./bin/astro.mjs
-  checksum: 10c0/33554d3c5d91d20dc493cd7e12340d5f3ce5f19c543466ab6751e58b2b2d55af81ceafcfcd2c552c03f254131273ffd388291d3cb3409168466461a3a9560a02
+  checksum: 10c0/f66c80e88aa5338a7ed9dde2adb09e0fe7b1bad1bc1e282fb24cbbfd9b54727d16f06550e1870ee90532d1f638d47956fafaca8a7143e4d3ea466778da510777
   languageName: node
   linkType: hard
 
@@ -5634,9 +5634,9 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "cojocarudavid.me@workspace:."
   dependencies:
-    "@astrojs/mdx": "npm:^6.0.1"
-    "@astrojs/netlify": "npm:^7.0.11"
-    "@astrojs/preact": "npm:^5.1.4"
+    "@astrojs/mdx": "npm:^6.0.3"
+    "@astrojs/netlify": "npm:^7.0.13"
+    "@astrojs/preact": "npm:^5.1.5"
     "@astrojs/sitemap": "npm:^3.7.3"
     "@fontsource-variable/inter": "npm:^5.2.8"
     "@fontsource-variable/montserrat": "npm:^5.2.8"
@@ -5655,7 +5655,7 @@ __metadata:
     "@tailwindcss/vite": "npm:^4.2.2"
     "@typescript-eslint/eslint-plugin": "npm:^8.60.0"
     "@typescript-eslint/parser": "npm:^8.60.0"
-    astro: "npm:6.4.2"
+    astro: "npm:6.4.6"
     astro-compressor: "npm:^1.3.0"
     astro-expressive-code: "npm:^0.42.0"
     astro-icon: "npm:^1.1.5"
@@ -6603,17 +6603,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"devalue@npm:^5.6.3":
-  version: 5.6.3
-  resolution: "devalue@npm:5.6.3"
-  checksum: 10c0/701fbe57b9b8b71cf5f9e706a6c977cffadd5083298e442d460e82f04480b8c5656aa3c6eb36aed33b387f4266aed6abd2143cd91e94f96931302225d14789ba
-  languageName: node
-  linkType: hard
-
-"devalue@npm:^5.6.4":
-  version: 5.6.4
-  resolution: "devalue@npm:5.6.4"
-  checksum: 10c0/0c1bbe036945e55c5f6d54f52bb1a99b19677dd48a8404517fbddb02e725803457bed6317d2c05292d68767914ba319a6a645dbfdf8ade65d687ab430bfc2ae1
+"devalue@npm:^5.8.1":
+  version: 5.8.1
+  resolution: "devalue@npm:5.8.1"
+  checksum: 10c0/fad0c5aeb615e0ddea3385923389991652b285cd2adcd84e10f07a930f735127d94621751f7ef5249a7fe2c7c666ec7c02bb95c3901da337c91f45ef4da18dea
   languageName: node
   linkType: hard
 
