@@ -46,9 +46,23 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@astrojs/compiler-binding-darwin-arm64@npm:0.3.1":
+  version: 0.3.1
+  resolution: "@astrojs/compiler-binding-darwin-arm64@npm:0.3.1"
+  conditions: os=darwin & cpu=arm64
+  languageName: node
+  linkType: hard
+
 "@astrojs/compiler-binding-darwin-x64@npm:0.3.0":
   version: 0.3.0
   resolution: "@astrojs/compiler-binding-darwin-x64@npm:0.3.0"
+  conditions: os=darwin & cpu=x64
+  languageName: node
+  linkType: hard
+
+"@astrojs/compiler-binding-darwin-x64@npm:0.3.1":
+  version: 0.3.1
+  resolution: "@astrojs/compiler-binding-darwin-x64@npm:0.3.1"
   conditions: os=darwin & cpu=x64
   languageName: node
   linkType: hard
@@ -60,9 +74,23 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@astrojs/compiler-binding-linux-arm64-gnu@npm:0.3.1":
+  version: 0.3.1
+  resolution: "@astrojs/compiler-binding-linux-arm64-gnu@npm:0.3.1"
+  conditions: os=linux & cpu=arm64 & libc=glibc
+  languageName: node
+  linkType: hard
+
 "@astrojs/compiler-binding-linux-arm64-musl@npm:0.3.0":
   version: 0.3.0
   resolution: "@astrojs/compiler-binding-linux-arm64-musl@npm:0.3.0"
+  conditions: os=linux & cpu=arm64 & libc=musl
+  languageName: node
+  linkType: hard
+
+"@astrojs/compiler-binding-linux-arm64-musl@npm:0.3.1":
+  version: 0.3.1
+  resolution: "@astrojs/compiler-binding-linux-arm64-musl@npm:0.3.1"
   conditions: os=linux & cpu=arm64 & libc=musl
   languageName: node
   linkType: hard
@@ -74,9 +102,23 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@astrojs/compiler-binding-linux-x64-gnu@npm:0.3.1":
+  version: 0.3.1
+  resolution: "@astrojs/compiler-binding-linux-x64-gnu@npm:0.3.1"
+  conditions: os=linux & cpu=x64 & libc=glibc
+  languageName: node
+  linkType: hard
+
 "@astrojs/compiler-binding-linux-x64-musl@npm:0.3.0":
   version: 0.3.0
   resolution: "@astrojs/compiler-binding-linux-x64-musl@npm:0.3.0"
+  conditions: os=linux & cpu=x64 & libc=musl
+  languageName: node
+  linkType: hard
+
+"@astrojs/compiler-binding-linux-x64-musl@npm:0.3.1":
+  version: 0.3.1
+  resolution: "@astrojs/compiler-binding-linux-x64-musl@npm:0.3.1"
   conditions: os=linux & cpu=x64 & libc=musl
   languageName: node
   linkType: hard
@@ -90,6 +132,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@astrojs/compiler-binding-wasm32-wasi@npm:0.3.1":
+  version: 0.3.1
+  resolution: "@astrojs/compiler-binding-wasm32-wasi@npm:0.3.1"
+  dependencies:
+    "@napi-rs/wasm-runtime": "npm:^1.1.6"
+  conditions: cpu=wasm32
+  languageName: node
+  linkType: hard
+
 "@astrojs/compiler-binding-win32-arm64-msvc@npm:0.3.0":
   version: 0.3.0
   resolution: "@astrojs/compiler-binding-win32-arm64-msvc@npm:0.3.0"
@@ -97,9 +148,23 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@astrojs/compiler-binding-win32-arm64-msvc@npm:0.3.1":
+  version: 0.3.1
+  resolution: "@astrojs/compiler-binding-win32-arm64-msvc@npm:0.3.1"
+  conditions: os=win32 & cpu=arm64
+  languageName: node
+  linkType: hard
+
 "@astrojs/compiler-binding-win32-x64-msvc@npm:0.3.0":
   version: 0.3.0
   resolution: "@astrojs/compiler-binding-win32-x64-msvc@npm:0.3.0"
+  conditions: os=win32 & cpu=x64
+  languageName: node
+  linkType: hard
+
+"@astrojs/compiler-binding-win32-x64-msvc@npm:0.3.1":
+  version: 0.3.1
+  resolution: "@astrojs/compiler-binding-win32-x64-msvc@npm:0.3.1"
   conditions: os=win32 & cpu=x64
   languageName: node
   linkType: hard
@@ -140,6 +205,42 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@astrojs/compiler-binding@npm:0.3.1":
+  version: 0.3.1
+  resolution: "@astrojs/compiler-binding@npm:0.3.1"
+  dependencies:
+    "@astrojs/compiler-binding-darwin-arm64": "npm:0.3.1"
+    "@astrojs/compiler-binding-darwin-x64": "npm:0.3.1"
+    "@astrojs/compiler-binding-linux-arm64-gnu": "npm:0.3.1"
+    "@astrojs/compiler-binding-linux-arm64-musl": "npm:0.3.1"
+    "@astrojs/compiler-binding-linux-x64-gnu": "npm:0.3.1"
+    "@astrojs/compiler-binding-linux-x64-musl": "npm:0.3.1"
+    "@astrojs/compiler-binding-wasm32-wasi": "npm:0.3.1"
+    "@astrojs/compiler-binding-win32-arm64-msvc": "npm:0.3.1"
+    "@astrojs/compiler-binding-win32-x64-msvc": "npm:0.3.1"
+  dependenciesMeta:
+    "@astrojs/compiler-binding-darwin-arm64":
+      optional: true
+    "@astrojs/compiler-binding-darwin-x64":
+      optional: true
+    "@astrojs/compiler-binding-linux-arm64-gnu":
+      optional: true
+    "@astrojs/compiler-binding-linux-arm64-musl":
+      optional: true
+    "@astrojs/compiler-binding-linux-x64-gnu":
+      optional: true
+    "@astrojs/compiler-binding-linux-x64-musl":
+      optional: true
+    "@astrojs/compiler-binding-wasm32-wasi":
+      optional: true
+    "@astrojs/compiler-binding-win32-arm64-msvc":
+      optional: true
+    "@astrojs/compiler-binding-win32-x64-msvc":
+      optional: true
+  checksum: 10c0/4b4b583d5b49960e8c7f10154c38d8f914bf0dbb09a8db1bf0fcbae31367604769a4e7aec02fc6e328de8c51da889780ef701f74b8e9718276c2611457f81e26
+  languageName: node
+  linkType: hard
+
 "@astrojs/compiler-rs@npm:^0.3.0":
   version: 0.3.0
   resolution: "@astrojs/compiler-rs@npm:0.3.0"
@@ -149,17 +250,19 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@astrojs/compiler-rs@npm:^0.3.1":
+  version: 0.3.1
+  resolution: "@astrojs/compiler-rs@npm:0.3.1"
+  dependencies:
+    "@astrojs/compiler-binding": "npm:0.3.1"
+  checksum: 10c0/423d48f711f3753f22df4f5686c7d3b9bae903423b9eeb810f962a2476e159ec786e0d2bd727c6ae05980e1d23c237e408c5db95f4511cff04bb2fa1d7ee5c66
+  languageName: node
+  linkType: hard
+
 "@astrojs/compiler@npm:^2.9.1":
   version: 2.11.0
   resolution: "@astrojs/compiler@npm:2.11.0"
   checksum: 10c0/33e95ad37f062757eeac26a2d00277196de888074d5b43eb7ef2f5548bfe7000384d934a750723af55946fef77408fd4712b23c9472350d44ebb51e3b47f63d9
-  languageName: node
-  linkType: hard
-
-"@astrojs/compiler@npm:^4.0.0":
-  version: 4.0.0
-  resolution: "@astrojs/compiler@npm:4.0.0"
-  checksum: 10c0/b82c245f88db7fe741128b2c057304866f42e87f296b2bf5962aa84e4bef1aa5c323a4fec8621db4f6ef7195cd0f90d9059c481f7d2708bbf983b481299dc5c0
   languageName: node
   linkType: hard
 
@@ -3020,13 +3123,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@pkgr/core@npm:^0.1.0":
-  version: 0.1.1
-  resolution: "@pkgr/core@npm:0.1.1"
-  checksum: 10c0/3f7536bc7f57320ab2cf96f8973664bef624710c403357429fbf680a5c3b4843c1dbd389bb43daa6b1f6f1f007bb082f5abcb76bb2b5dc9f421647743b71d3d8
-  languageName: node
-  linkType: hard
-
 "@playform/build@npm:^0.3.2":
   version: 0.3.2
   resolution: "@playform/build@npm:0.3.2"
@@ -4777,22 +4873,20 @@ __metadata:
   languageName: node
   linkType: hard
 
-"astro-eslint-parser@npm:^2.0.0":
-  version: 2.1.0
-  resolution: "astro-eslint-parser@npm:2.1.0"
+"astro-eslint-parser@npm:^3.0.0":
+  version: 3.0.0
+  resolution: "astro-eslint-parser@npm:3.0.0"
   dependencies:
-    "@astrojs/compiler": "npm:^4.0.0"
+    "@astrojs/compiler-rs": "npm:^0.3.1"
     "@typescript-eslint/scope-manager": "npm:^8.61.0"
     "@typescript-eslint/types": "npm:^8.61.0"
-    astrojs-compiler-sync: "npm:^1.0.0"
-    debug: "npm:^4.3.4"
-    entities: "npm:^8.0.0"
+    debug: "npm:^4.4.3"
     eslint-scope: "npm:^9.1.2"
     eslint-visitor-keys: "npm:^5.0.1"
     espree: "npm:^11.2.0"
-    semver: "npm:^7.3.8"
+    semver: "npm:^7.8.4"
     tinyglobby: "npm:^0.2.17"
-  checksum: 10c0/4344b4e24bb095495f45338ee448de0aa0001c2080f03506ea55c0cc37fc9ca239565ccafafbdea845504a8b9f0ec00085dd2224c2a7f7f73ad0d709f7445529
+  checksum: 10c0/4f5e1166d615fe65844864be69b09eebf85b8e455db72aba2144f98ff196525a21bd1e038f6aee19070a6e8b06c92c7ac213ec0c4a8da083b87001643e5809c4
   languageName: node
   linkType: hard
 
@@ -4888,17 +4982,6 @@ __metadata:
   bin:
     astro: ./bin/astro.mjs
   checksum: 10c0/2917b05f1362424d7368a3911ffbc76303416aad7a2ac37d60a10df70fedf8d1b0b2248640cb36d5b135a54775f2ff9578a4302fa973f8ad7d7b9849ed332dfe
-  languageName: node
-  linkType: hard
-
-"astrojs-compiler-sync@npm:^1.0.0":
-  version: 1.0.1
-  resolution: "astrojs-compiler-sync@npm:1.0.1"
-  dependencies:
-    synckit: "npm:^0.9.0"
-  peerDependencies:
-    "@astrojs/compiler": ">=0.27.0"
-  checksum: 10c0/bf2a81216fceac6cd53f367ac2df73902bc223f5a2223ffa1613678863a2b00759cd7cd57b1e2c8d1bf137e99c5e0624a2d667a36215b3ddc4aca61f83d7c107
   languageName: node
   linkType: hard
 
@@ -5607,7 +5690,7 @@ __metadata:
     astro-expressive-code: "npm:^0.44.0"
     astro-icon: "npm:^1.1.5"
     eslint: "npm:^10.7.0"
-    eslint-plugin-astro: "npm:^2.1.1"
+    eslint-plugin-astro: "npm:^3.0.1"
     preact: "npm:^10.29.7"
     prettier-plugin-astro: "npm:^0.14.1"
     satori: "npm:^0.28.0"
@@ -6846,13 +6929,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"entities@npm:^8.0.0":
-  version: 8.0.0
-  resolution: "entities@npm:8.0.0"
-  checksum: 10c0/938e631664c19451823344a351aeeafd74fae2d5fa51e4d5b6ff635afaefd4bacf0f609989888c04c42733f46ffdac15211608267ebb02488005891a4793e94d
-  languageName: node
-  linkType: hard
-
 "env-paths@npm:^2.2.0":
   version: 2.2.1
   resolution: "env-paths@npm:2.2.1"
@@ -7472,17 +7548,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-plugin-astro@npm:^2.1.1":
-  version: 2.1.1
-  resolution: "eslint-plugin-astro@npm:2.1.1"
+"eslint-plugin-astro@npm:^3.0.1":
+  version: 3.0.1
+  resolution: "eslint-plugin-astro@npm:3.0.1"
   dependencies:
     "@eslint-community/eslint-utils": "npm:^4.5.1"
     "@jridgewell/sourcemap-codec": "npm:^1.5.0"
     "@typescript-eslint/types": "npm:^8.61.0"
-    astro-eslint-parser: "npm:^2.0.0"
+    astro-eslint-parser: "npm:^3.0.0"
     espree: "npm:^11.0.0"
     globals: "npm:^17.0.0"
-    parse5: "npm:^8.0.0"
     postcss: "npm:^8.5.3"
     postcss-selector-parser: "npm:^7.1.0"
   peerDependencies:
@@ -7494,7 +7569,7 @@ __metadata:
       optional: true
     eslint-plugin-jsx-a11y:
       optional: true
-  checksum: 10c0/423921a8273ec1df9f2c84242a48d0b010377de743a2eab1f91e08695968f72866cb2fd9e412da4117531f4f8d2369910658a27646baa8c938e0c067219a18b1
+  checksum: 10c0/3572d6b8575ed0b376e7fff6b2b21f46af88c20310dd8c3b939fd14e7d3b3dbcf4f1c37e84e1ee2fe1c1ae6c0f2b2c5852429b65d57cce6c2ea4a88b4f69a76f
   languageName: node
   linkType: hard
 
@@ -12476,15 +12551,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"parse5@npm:^8.0.0":
-  version: 8.0.1
-  resolution: "parse5@npm:8.0.1"
-  dependencies:
-    entities: "npm:^8.0.0"
-  checksum: 10c0/c3c1c5aab55f6e4be5245599790e56e64be7764a4a0edd7f98db4fe3bb380f63add752fa047dff0496446c25f4104f0c7c1967723de640bde92306a7bb67ed2f
-  languageName: node
-  linkType: hard
-
 "path-exists@npm:^4.0.0":
   version: 4.0.0
   resolution: "path-exists@npm:4.0.0"
@@ -13972,7 +14038,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"semver@npm:^7.8.5":
+"semver@npm:^7.8.4, semver@npm:^7.8.5":
   version: 7.8.5
   resolution: "semver@npm:7.8.5"
   bin:
@@ -14865,16 +14931,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"synckit@npm:^0.9.0":
-  version: 0.9.2
-  resolution: "synckit@npm:0.9.2"
-  dependencies:
-    "@pkgr/core": "npm:^0.1.0"
-    tslib: "npm:^2.6.2"
-  checksum: 10c0/e0c262817444e5b872708adb6f5ad37951ba33f6b2d1d4477d45db1f57573a784618ceed5e6614e0225db330632b1f6b95bb74d21e4d013e45ad4bde03d0cb59
-  languageName: node
-  linkType: hard
-
 "system-architecture@npm:^0.1.0":
   version: 0.1.0
   resolution: "system-architecture@npm:0.1.0"
@@ -15208,7 +15264,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"tslib@npm:^2.4.0, tslib@npm:^2.5.0, tslib@npm:^2.6.2, tslib@npm:^2.6.3, tslib@npm:^2.8.1":
+"tslib@npm:^2.4.0, tslib@npm:^2.5.0, tslib@npm:^2.6.3, tslib@npm:^2.8.1":
   version: 2.8.1
   resolution: "tslib@npm:2.8.1"
   checksum: 10c0/9c4759110a19c53f992d9aae23aac5ced636e99887b51b9e61def52611732872ff7668757d4e4c61f19691e36f4da981cd9485e869b4a7408d689f6bf1f14e62
