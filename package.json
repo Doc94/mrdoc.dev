@@ -23,7 +23,7 @@
     "astro-expressive-code": "^0.44.0",
     "astro-icon": "^1.1.5",
     "eslint": "^10.7.0",
-    "eslint-plugin-astro": "^2.1.1",
+    "eslint-plugin-astro": "^3.0.1",
     "prettier-plugin-astro": "^0.14.1",
     "satori": "^0.28.0",
     "satori-html": "^0.3.2",
