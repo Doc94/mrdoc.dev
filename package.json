@@ -30,7 +30,7 @@
     "sharp": "^0.35.3",
     "tsm": "^2.3.0",
     "typescript": "^7.0.2",
-    "vite": "^8.1.5"
+    "vite": "^8.2.1"
   },
   "dependencies": {
     "@astrojs/mdx": "^7.0.2",
