@@ -6146,7 +6146,7 @@ __metadata:
     eslint: "npm:^10.10.0"
     eslint-plugin-astro: "npm:^3.1.0"
     preact: "npm:^10.29.8"
-    prettier-plugin-astro: "npm:^1.0.0"
+    prettier-plugin-astro: "npm:^1.0.1"
     satori: "npm:^0.33.4"
     satori-html: "npm:^0.3.2"
     sharp: "npm:^0.35.4"
@@ -12502,16 +12502,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prettier-plugin-astro@npm:^1.0.0":
-  version: 1.0.0
-  resolution: "prettier-plugin-astro@npm:1.0.0"
+"prettier-plugin-astro@npm:^1.0.1":
+  version: 1.0.1
+  resolution: "prettier-plugin-astro@npm:1.0.1"
   dependencies:
     "@astrojs/compiler-rs": "npm:^0.4.0"
     "@prettier/parse-srcset": "npm:^3.1.0"
     sass-formatter: "npm:^0.8.0"
   peerDependencies:
     prettier: ^3.5.3
-  checksum: 10c0/da6047abedb04cdd64f2d59f9eb8b98ff4f617812f158b473bac5be3b1385ea077f95c32152ca8d5c84b71bc254ab9a63c9877494148f4ffd64a2cd57045788b
+  checksum: 10c0/962a37fcf258ec63c96081ac93a92fca89196fd76856c43e4cf3dc9899a4042da719dea2295de8a51b974563aec94131d2354f5ab299313f37af6db5a03dfa11
   languageName: node
   linkType: hard
 
