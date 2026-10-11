@@ -5674,7 +5674,7 @@ __metadata:
     astro-icon: "npm:^1.2.0"
     eslint: "npm:^10.12.0"
     eslint-plugin-astro: "npm:^3.2.1"
-    preact: "npm:^11.0.0"
+    preact: "npm:^11.0.1"
     prettier-plugin-astro: "npm:^1.1.1"
     satori: "npm:^0.35.0"
     satori-html: "npm:^0.3.2"
@@ -11873,15 +11873,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"preact@npm:^11.0.0":
-  version: 11.0.0
-  resolution: "preact@npm:11.0.0"
+"preact@npm:^11.0.1":
+  version: 11.0.1
+  resolution: "preact@npm:11.0.1"
   peerDependencies:
     preact-render-to-string: ">=6.7.0"
   peerDependenciesMeta:
     preact-render-to-string:
       optional: true
-  checksum: 10c0/3dfc797d46009e3ec8cf509662077a760301935cb9f5a4bdbdcb26fe69838cf621471742d87a125c6b1237ad78687d5d8fc0798a571038c35fe5e090c37ec502
+  checksum: 10c0/b1d0db9f9b9ef6468004104e0f22ccd4e0b9e21ed06d3918738b4db9c09d82a300af20eddc618875ff14e4d37191e0cc0785cf0796cbc1e6d29fca4d3ffdb4fd
   languageName: node
   linkType: hard
 
