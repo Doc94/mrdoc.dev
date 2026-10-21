@@ -19,7 +19,7 @@
     "@tailwindcss/typography": "^0.5.20",
     "@typescript-eslint/eslint-plugin": "^8.71.2",
     "@typescript-eslint/parser": "^8.71.2",
-    "astro": "7.4.0",
+    "astro": "7.4.1",
     "astro-expressive-code": "^0.44.2",
     "astro-icon": "^1.2.0",
     "eslint": "^10.13.0",
